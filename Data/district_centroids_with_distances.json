@@ -1,0 +1,4677 @@
+[
+    {
+        "district_name": "Mongkol Borei",
+        "centroid": {
+            "longitude": 102.9879277711605,
+            "latitude": 13.458231271872265
+        },
+        "DIS_CODE": 102,
+        "distance_from_tuol_kouk": 294.4998882419422,
+        "actual_distance_from_tuol_kouk": 345.158,
+        "neighbors": [
+            "Preah Netr Preah",
+            "Ou Chrov",
+            "Serei Saophoan",
+            "Malai",
+            "Thma Koul",
+            "Bavel",
+            "Aek Phnum"
+        ],
+        "distances_to_neighbors": {
+            "Preah Netr Preah": 42.079,
+            "Ou Chrov": 51.249,
+            "Serei Saophoan": 24.842,
+            "Malai": 71.65,
+            "Thma Koul": 28.211,
+            "Bavel": 37.201,
+            "Aek Phnum": 90.266
+        }
+    },
+    {
+        "district_name": "Phnum Srok",
+        "centroid": {
+            "longitude": 103.31674502047466,
+            "latitude": 13.823334725582011
+        },
+        "DIS_CODE": 103,
+        "distance_from_tuol_kouk": 302.68223563900597,
+        "actual_distance_from_tuol_kouk": 406.936,
+        "neighbors": [
+            "Preah Netr Preah",
+            "Thma Puok",
+            "Svay Chek",
+            "Kralanh",
+            "Srei Snam",
+            "Banteay Ampil",
+            "Chong Kal"
+        ],
+        "distances_to_neighbors": {
+            "Preah Netr Preah": 54.326,
+            "Thma Puok": 55.069,
+            "Svay Chek": 57.211,
+            "Kralanh": 51.65,
+            "Srei Snam": 40.3,
+            "Banteay Ampil": 90.367,
+            "Chong Kal": 42.478
+        }
+    },
+    {
+        "district_name": "Preah Netr Preah",
+        "centroid": {
+            "longitude": 103.24361249803135,
+            "latitude": 13.575598321394171
+        },
+        "DIS_CODE": 104,
+        "distance_from_tuol_kouk": 285.5413399830877,
+        "actual_distance_from_tuol_kouk": 380.614,
+        "neighbors": [
+            "Mongkol Borei",
+            "Phnum Srok",
+            "Serei Saophoan",
+            "Svay Chek",
+            "Thma Koul",
+            "Aek Phnum",
+            "Kralanh"
+        ],
+        "distances_to_neighbors": {
+            "Mongkol Borei": 42.079,
+            "Phnum Srok": 54.326,
+            "Serei Saophoan": 39.35,
+            "Svay Chek": 62.881,
+            "Thma Koul": 63.667,
+            "Aek Phnum": 125.722,
+            "Kralanh": 37.805
+        }
+    },
+    {
+        "district_name": "Ou Chrov",
+        "centroid": {
+            "longitude": 102.80780332856453,
+            "latitude": 13.644469358938995
+        },
+        "DIS_CODE": 105,
+        "distance_from_tuol_kouk": 322.85557074100933,
+        "actual_distance_from_tuol_kouk": 381.012,
+        "neighbors": [
+            "Mongkol Borei",
+            "Serei Saophoan",
+            "Svay Chek",
+            "Malai",
+            "Paoy Paet"
+        ],
+        "distances_to_neighbors": {
+            "Mongkol Borei": 51.249,
+            "Serei Saophoan": 25.634,
+            "Svay Chek": 49.113,
+            "Malai": 38.259,
+            "Paoy Paet": 32.458
+        }
+    },
+    {
+        "district_name": "Serei Saophoan",
+        "centroid": {
+            "longitude": 102.96562397532296,
+            "latitude": 13.614161813873816
+        },
+        "DIS_CODE": 106,
+        "distance_from_tuol_kouk": 308.5720581353149,
+        "actual_distance_from_tuol_kouk": 363.582,
+        "neighbors": [
+            "Mongkol Borei",
+            "Preah Netr Preah",
+            "Ou Chrov",
+            "Svay Chek"
+        ],
+        "distances_to_neighbors": {
+            "Mongkol Borei": 24.842,
+            "Preah Netr Preah": 39.35,
+            "Ou Chrov": 25.634,
+            "Svay Chek": 24.161
+        }
+    },
+    {
+        "district_name": "Thma Puok",
+        "centroid": {
+            "longitude": 103.04009751317065,
+            "latitude": 14.014188065998233
+        },
+        "DIS_CODE": 107,
+        "distance_from_tuol_kouk": 337.3169518986427,
+        "actual_distance_from_tuol_kouk": 412.799,
+        "neighbors": [
+            "Phnum Srok",
+            "Svay Chek",
+            "Banteay Ampil"
+        ],
+        "distances_to_neighbors": {
+            "Phnum Srok": 55.069,
+            "Svay Chek": 30.924,
+            "Banteay Ampil": 52.875
+        }
+    },
+    {
+        "district_name": "Svay Chek",
+        "centroid": {
+            "longitude": 102.95157101511802,
+            "latitude": 13.816208217911361
+        },
+        "DIS_CODE": 108,
+        "distance_from_tuol_kouk": 326.2347443923463,
+        "actual_distance_from_tuol_kouk": 386.968,
+        "neighbors": [
+            "Phnum Srok",
+            "Preah Netr Preah",
+            "Ou Chrov",
+            "Serei Saophoan",
+            "Thma Puok"
+        ],
+        "distances_to_neighbors": {
+            "Phnum Srok": 57.211,
+            "Preah Netr Preah": 62.881,
+            "Ou Chrov": 49.113,
+            "Serei Saophoan": 24.161,
+            "Thma Puok": 30.924
+        }
+    },
+    {
+        "district_name": "Malai",
+        "centroid": {
+            "longitude": 102.56882277620093,
+            "latitude": 13.522205573958653
+        },
+        "DIS_CODE": 109,
+        "distance_from_tuol_kouk": 332.7408874749729,
+        "actual_distance_from_tuol_kouk": 410.259,
+        "neighbors": [
+            "Mongkol Borei",
+            "Ou Chrov",
+            "Paoy Paet",
+            "Sampov Lun"
+        ],
+        "distances_to_neighbors": {
+            "Mongkol Borei": 71.65,
+            "Ou Chrov": 38.259,
+            "Paoy Paet": 33.923,
+            "Sampov Lun": 24.599
+        }
+    },
+    {
+        "district_name": "Paoy Paet",
+        "centroid": {
+            "longitude": 102.66021911611983,
+            "latitude": 13.648826622955909
+        },
+        "DIS_CODE": 110,
+        "distance_from_tuol_kouk": 334.6626982437411,
+        "actual_distance_from_tuol_kouk": 404.459,
+        "neighbors": [
+            "Ou Chrov",
+            "Malai"
+        ],
+        "distances_to_neighbors": {
+            "Ou Chrov": 32.458,
+            "Malai": 33.923
+        }
+    },
+    {
+        "district_name": "Banan",
+        "centroid": {
+            "longitude": 103.04488700902135,
+            "latitude": 12.973344136192935
+        },
+        "DIS_CODE": 201,
+        "distance_from_tuol_kouk": 254.464345541065,
+        "actual_distance_from_tuol_kouk": 307.158,
+        "neighbors": [
+            "Thma Koul",
+            "Battambang",
+            "Bavel",
+            "Rotonak Mondol",
+            "Sangkae",
+            "Koas Krala"
+        ],
+        "distances_to_neighbors": {
+            "Thma Koul": 41.809,
+            "Battambang": 20.339,
+            "Bavel": 72.829,
+            "Rotonak Mondol": 31.434,
+            "Sangkae": 48.575,
+            "Koas Krala": 50.502
+        }
+    },
+    {
+        "district_name": "Thma Koul",
+        "centroid": {
+            "longitude": 103.094170942302,
+            "latitude": 13.26097814794243
+        },
+        "DIS_CODE": 202,
+        "distance_from_tuol_kouk": 271.036175247784,
+        "actual_distance_from_tuol_kouk": 318.567,
+        "neighbors": [
+            "Mongkol Borei",
+            "Preah Netr Preah",
+            "Banan",
+            "Battambang",
+            "Bavel",
+            "Aek Phnum"
+        ],
+        "distances_to_neighbors": {
+            "Mongkol Borei": 28.211,
+            "Preah Netr Preah": 63.667,
+            "Banan": 41.809,
+            "Battambang": 24.128,
+            "Bavel": 32.369,
+            "Aek Phnum": 63.675
+        }
+    },
+    {
+        "district_name": "Battambang",
+        "centroid": {
+            "longitude": 103.16458845653658,
+            "latitude": 13.087859662627725
+        },
+        "DIS_CODE": 203,
+        "distance_from_tuol_kouk": 252.4754799927444,
+        "actual_distance_from_tuol_kouk": 292.212,
+        "neighbors": [
+            "Banan",
+            "Thma Koul",
+            "Aek Phnum",
+            "Sangkae"
+        ],
+        "distances_to_neighbors": {
+            "Banan": 20.339,
+            "Thma Koul": 24.128,
+            "Aek Phnum": 45.191,
+            "Sangkae": 32.061
+        }
+    },
+    {
+        "district_name": "Bavel",
+        "centroid": {
+            "longitude": 102.82573515052708,
+            "latitude": 13.239068896920884
+        },
+        "DIS_CODE": 204,
+        "distance_from_tuol_kouk": 291.32660443349084,
+        "actual_distance_from_tuol_kouk": 351.759,
+        "neighbors": [
+            "Mongkol Borei",
+            "Banan",
+            "Thma Koul",
+            "Rotonak Mondol",
+            "Sampov Lun",
+            "Kamrieng"
+        ],
+        "distances_to_neighbors": {
+            "Mongkol Borei": 37.201,
+            "Banan": 72.829,
+            "Thma Koul": 32.369,
+            "Rotonak Mondol": 104.96,
+            "Sampov Lun": 49.976,
+            "Kamrieng": 55.944
+        }
+    },
+    {
+        "district_name": "Aek Phnum",
+        "centroid": {
+            "longitude": 103.43847112501918,
+            "latitude": 13.243083967247605
+        },
+        "DIS_CODE": 205,
+        "distance_from_tuol_kouk": 243.79353230932864,
+        "actual_distance_from_tuol_kouk": 317.807,
+        "neighbors": [
+            "Mongkol Borei",
+            "Preah Netr Preah",
+            "Thma Koul",
+            "Battambang",
+            "Sangkae",
+            "Kralanh",
+            "Puok"
+        ],
+        "distances_to_neighbors": {
+            "Mongkol Borei": 90.266,
+            "Preah Netr Preah": 125.722,
+            "Thma Koul": 63.675,
+            "Battambang": 45.191,
+            "Sangkae": 43.94,
+            "Kralanh": 155.249,
+            "Puok": 181.641
+        }
+    },
+    {
+        "district_name": "Moung Ruessei",
+        "centroid": {
+            "longitude": 103.52145263781739,
+            "latitude": 12.829644243723118
+        },
+        "DIS_CODE": 206,
+        "distance_from_tuol_kouk": 204.5915609993918,
+        "actual_distance_from_tuol_kouk": 244.995,
+        "neighbors": [
+            "Sangkae",
+            "Koas Krala",
+            "Bakan"
+        ],
+        "distances_to_neighbors": {
+            "Sangkae": 75.334,
+            "Koas Krala": 62.689,
+            "Bakan": 46.435
+        }
+    },
+    {
+        "district_name": "Rotonak Mondol",
+        "centroid": {
+            "longitude": 102.87289904899413,
+            "latitude": 12.87112293950828
+        },
+        "DIS_CODE": 207,
+        "distance_from_tuol_kouk": 263.2269356279688,
+        "actual_distance_from_tuol_kouk": 336.708,
+        "neighbors": [
+            "Banan",
+            "Bavel",
+            "Samlout",
+            "Kamrieng",
+            "Koas Krala",
+            "Pailin",
+            "Sala Krau"
+        ],
+        "distances_to_neighbors": {
+            "Banan": 31.434,
+            "Bavel": 104.96,
+            "Samlout": 36.368,
+            "Kamrieng": 82.133,
+            "Koas Krala": 76.841,
+            "Pailin": 42.753,
+            "Sala Krau": 58.48
+        }
+    },
+    {
+        "district_name": "Sangkae",
+        "centroid": {
+            "longitude": 103.40930918301858,
+            "latitude": 13.058507821537358
+        },
+        "DIS_CODE": 208,
+        "distance_from_tuol_kouk": 230.9412933777353,
+        "actual_distance_from_tuol_kouk": 304.677,
+        "neighbors": [
+            "Banan",
+            "Battambang",
+            "Aek Phnum",
+            "Moung Ruessei",
+            "Koas Krala"
+        ],
+        "distances_to_neighbors": {
+            "Banan": 48.575,
+            "Battambang": 32.061,
+            "Aek Phnum": 43.94,
+            "Moung Ruessei": 75.334,
+            "Koas Krala": 85.488
+        }
+    },
+    {
+        "district_name": "Samlout",
+        "centroid": {
+            "longitude": 102.85464273923392,
+            "latitude": 12.598957155989108
+        },
+        "DIS_CODE": 209,
+        "distance_from_tuol_kouk": 249.93023875682766,
+        "actual_distance_from_tuol_kouk": 361.252,
+        "neighbors": [
+            "Rotonak Mondol",
+            "Koas Krala",
+            "Veal Veaeng",
+            "Pailin"
+        ],
+        "distances_to_neighbors": {
+            "Rotonak Mondol": 36.368,
+            "Koas Krala": 57.944,
+            "Veal Veaeng": 88.5,
+            "Pailin": 73.88
+        }
+    },
+    {
+        "district_name": "Sampov Lun",
+        "centroid": {
+            "longitude": 102.52641925481353,
+            "latitude": 13.420176575393024
+        },
+        "DIS_CODE": 210,
+        "distance_from_tuol_kouk": 329.1696386598922,
+        "actual_distance_from_tuol_kouk": 396.713,
+        "neighbors": [
+            "Malai",
+            "Bavel"
+        ],
+        "distances_to_neighbors": {
+            "Malai": 24.599,
+            "Bavel": 49.976
+        }
+    },
+    {
+        "district_name": "Phnum Proek",
+        "centroid": {
+            "longitude": 102.52259172971831,
+            "latitude": 13.282660051181878
+        },
+        "DIS_CODE": 211,
+        "distance_from_tuol_kouk": 320.3286343381033,
+        "actual_distance_from_tuol_kouk": 405.435,
+        "neighbors": [
+            "Kamrieng"
+        ],
+        "distances_to_neighbors": {
+            "Kamrieng": 28.919
+        }
+    },
+    {
+        "district_name": "Kamrieng",
+        "centroid": {
+            "longitude": 102.56062499805817,
+            "latitude": 13.122300155918367
+        },
+        "DIS_CODE": 212,
+        "distance_from_tuol_kouk": 306.8018076161925,
+        "actual_distance_from_tuol_kouk": 389.697,
+        "neighbors": [
+            "Bavel",
+            "Rotonak Mondol",
+            "Phnum Proek",
+            "Sala Krau"
+        ],
+        "distances_to_neighbors": {
+            "Bavel": 55.944,
+            "Rotonak Mondol": 82.133,
+            "Phnum Proek": 28.919,
+            "Sala Krau": 38.278
+        }
+    },
+    {
+        "district_name": "Koas Krala",
+        "centroid": {
+            "longitude": 103.18186805344295,
+            "latitude": 12.680933317045875
+        },
+        "DIS_CODE": 213,
+        "distance_from_tuol_kouk": 223.6316862189564,
+        "actual_distance_from_tuol_kouk": 292.032,
+        "neighbors": [
+            "Banan",
+            "Moung Ruessei",
+            "Rotonak Mondol",
+            "Sangkae",
+            "Samlout",
+            "Rukh Kiri",
+            "Veal Veaeng"
+        ],
+        "distances_to_neighbors": {
+            "Banan": 50.502,
+            "Moung Ruessei": 62.689,
+            "Rotonak Mondol": 76.841,
+            "Sangkae": 85.488,
+            "Samlout": 57.944,
+            "Rukh Kiri": 45.285,
+            "Veal Veaeng": 78.582
+        }
+    },
+    {
+        "district_name": "Rukh Kiri",
+        "centroid": {
+            "longitude": 103.4447700436495,
+            "latitude": 12.588586556932404
+        },
+        "DIS_CODE": 214,
+        "distance_from_tuol_kouk": 194.25998941629686,
+        "actual_distance_from_tuol_kouk": 255.183,
+        "neighbors": [
+            "Koas Krala",
+            "Bakan",
+            "Veal Veaeng"
+        ],
+        "distances_to_neighbors": {
+            "Koas Krala": 45.285,
+            "Bakan": 56.623,
+            "Veal Veaeng": 149.164
+        }
+    },
+    {
+        "district_name": "Batheay",
+        "centroid": {
+            "longitude": 104.9309686709204,
+            "latitude": 12.030968570064255
+        },
+        "DIS_CODE": 301,
+        "distance_from_tuol_kouk": 51.00120126455696,
+        "actual_distance_from_tuol_kouk": 68.522,
+        "neighbors": [
+            "Cheung Prey",
+            "Kang Meas",
+            "Chol Kiri",
+            "Kampong Tralach",
+            "Baray",
+            "Mukh Kampul",
+            "Ponhea Lueu"
+        ],
+        "distances_to_neighbors": {
+            "Cheung Prey": 22.187,
+            "Kang Meas": 56.544,
+            "Kampong Tralach": 66.22,
+            "Baray": 60.493,
+            "Mukh Kampul": 35.309,
+            "Ponhea Lueu": 50.457
+        }
+    },
+    {
+        "district_name": "Chamkar Leu",
+        "centroid": {
+            "longitude": 105.28711393630475,
+            "latitude": 12.268990495245022
+        },
+        "DIS_CODE": 302,
+        "distance_from_tuol_kouk": 88.0302336046821,
+        "actual_distance_from_tuol_kouk": 122.152,
+        "neighbors": [
+            "Kampong Siem",
+            "Prey Chhor",
+            "Stueng Trang",
+            "Baray"
+        ],
+        "distances_to_neighbors": {
+            "Kampong Siem": 33.852,
+            "Prey Chhor": 30.868,
+            "Stueng Trang": 43.788,
+            "Baray": 30.684
+        }
+    },
+    {
+        "district_name": "Cheung Prey",
+        "centroid": {
+            "longitude": 105.06228067259278,
+            "latitude": 12.094700905590853
+        },
+        "DIS_CODE": 303,
+        "distance_from_tuol_kouk": 60.60302014962231,
+        "actual_distance_from_tuol_kouk": 83.58,
+        "neighbors": [
+            "Batheay",
+            "Kang Meas",
+            "Prey Chhor",
+            "Baray"
+        ],
+        "distances_to_neighbors": {
+            "Batheay": 22.187,
+            "Kang Meas": 71.601,
+            "Prey Chhor": 29.664,
+            "Baray": 41.058
+        }
+    },
+    {
+        "district_name": "Kampong Cham",
+        "centroid": {
+            "longitude": 105.44141399696274,
+            "latitude": 11.985515026409496
+        },
+        "DIS_CODE": 305,
+        "distance_from_tuol_kouk": 74.81656072236932,
+        "actual_distance_from_tuol_kouk": 105.881,
+        "neighbors": [
+            "Kampong Siem",
+            "Tboung Khmum"
+        ],
+        "distances_to_neighbors": {
+            "Kampong Siem": 11.268,
+            "Tboung Khmum": 34.625
+        }
+    },
+    {
+        "district_name": "Kampong Siem",
+        "centroid": {
+            "longitude": 105.4336064909464,
+            "latitude": 12.060445892473409
+        },
+        "DIS_CODE": 306,
+        "distance_from_tuol_kouk": 79.53350903832674,
+        "actual_distance_from_tuol_kouk": 121.676,
+        "neighbors": [
+            "Chamkar Leu",
+            "Kampong Cham",
+            "Kang Meas",
+            "Kaoh Soutin",
+            "Prey Chhor",
+            "Stueng Trang",
+            "Krouch Chhmar",
+            "Tboung Khmum"
+        ],
+        "distances_to_neighbors": {
+            "Chamkar Leu": 33.852,
+            "Kampong Cham": 11.268,
+            "Kang Meas": 52.278,
+            "Kaoh Soutin": 39.879,
+            "Prey Chhor": 28.85,
+            "Stueng Trang": 53.18,
+            "Krouch Chhmar": 74.197,
+            "Tboung Khmum": 42.426
+        }
+    },
+    {
+        "district_name": "Kang Meas",
+        "centroid": {
+            "longitude": 105.14768044416736,
+            "latitude": 11.939699403029659
+        },
+        "DIS_CODE": 307,
+        "distance_from_tuol_kouk": 48.97152766567734,
+        "actual_distance_from_tuol_kouk": 66.793,
+        "neighbors": [
+            "Batheay",
+            "Cheung Prey",
+            "Kampong Siem",
+            "Kaoh Soutin",
+            "Prey Chhor",
+            "Srei Santhor",
+            "Khsach Kandal",
+            "Mukh Kampul"
+        ],
+        "distances_to_neighbors": {
+            "Batheay": 56.544,
+            "Cheung Prey": 71.601,
+            "Kampong Siem": 52.278,
+            "Kaoh Soutin": 35.737,
+            "Prey Chhor": 37.824,
+            "Srei Santhor": 47.118,
+            "Khsach Kandal": 51.388,
+            "Mukh Kampul": 40.12
+        }
+    },
+    {
+        "district_name": "Kaoh Soutin",
+        "centroid": {
+            "longitude": 105.36838953597395,
+            "latitude": 11.88878683169298
+        },
+        "DIS_CODE": 308,
+        "distance_from_tuol_kouk": 62.0801413927413,
+        "actual_distance_from_tuol_kouk": 88.291,
+        "neighbors": [
+            "Kampong Siem",
+            "Kang Meas",
+            "Srei Santhor",
+            "Sithor Kandal",
+            "Ou Reang Ov",
+            "Tboung Khmum"
+        ],
+        "distances_to_neighbors": {
+            "Kampong Siem": 39.879,
+            "Kang Meas": 35.737,
+            "Srei Santhor": 31.601,
+            "Sithor Kandal": 23.006,
+            "Ou Reang Ov": 30.561,
+            "Tboung Khmum": 43.267
+        }
+    },
+    {
+        "district_name": "Prey Chhor",
+        "centroid": {
+            "longitude": 105.22663419046992,
+            "latitude": 12.088674936980741
+        },
+        "DIS_CODE": 313,
+        "distance_from_tuol_kouk": 67.48344858946052,
+        "actual_distance_from_tuol_kouk": 97.734,
+        "neighbors": [
+            "Chamkar Leu",
+            "Cheung Prey",
+            "Kampong Siem",
+            "Kang Meas",
+            "Baray"
+        ],
+        "distances_to_neighbors": {
+            "Chamkar Leu": 30.868,
+            "Cheung Prey": 29.664,
+            "Kampong Siem": 28.85,
+            "Kang Meas": 37.824,
+            "Baray": 44.931
+        }
+    },
+    {
+        "district_name": "Srei Santhor",
+        "centroid": {
+            "longitude": 105.16544293038355,
+            "latitude": 11.837084203394985
+        },
+        "DIS_CODE": 314,
+        "distance_from_tuol_kouk": 41.353788791644256,
+        "actual_distance_from_tuol_kouk": 59.791,
+        "neighbors": [
+            "Kang Meas",
+            "Kaoh Soutin",
+            "Khsach Kandal",
+            "Pea Reang",
+            "Sithor Kandal"
+        ],
+        "distances_to_neighbors": {
+            "Kang Meas": 47.118,
+            "Kaoh Soutin": 31.601,
+            "Khsach Kandal": 40.945,
+            "Pea Reang": 50.207,
+            "Sithor Kandal": 76.526
+        }
+    },
+    {
+        "district_name": "Stueng Trang",
+        "centroid": {
+            "longitude": 105.55736476070034,
+            "latitude": 12.358759296479493
+        },
+        "DIS_CODE": 315,
+        "distance_from_tuol_kouk": 112.85293960943828,
+        "actual_distance_from_tuol_kouk": 160.499,
+        "neighbors": [
+            "Chamkar Leu",
+            "Kampong Siem",
+            "Baray",
+            "Santuk",
+            "Prek Prasab",
+            "Krouch Chhmar"
+        ],
+        "distances_to_neighbors": {
+            "Chamkar Leu": 43.788,
+            "Kampong Siem": 53.18,
+            "Baray": 63.484,
+            "Santuk": 94.986,
+            "Prek Prasab": 64.998,
+            "Krouch Chhmar": 65.956
+        }
+    },
+    {
+        "district_name": "Baribour",
+        "centroid": {
+            "longitude": 104.46376693720656,
+            "latitude": 12.406823971861316
+        },
+        "DIS_CODE": 401,
+        "distance_from_tuol_kouk": 103.90232678306783,
+        "actual_distance_from_tuol_kouk": 117.173,
+        "neighbors": [
+            "Kampong Leaeng",
+            "Rolea B'ier",
+            "Tuek Phos",
+            "Krakor"
+        ],
+        "distances_to_neighbors": {
+            "Kampong Leaeng": 59.916,
+            "Rolea B'ier": 31.421,
+            "Tuek Phos": 71.979,
+            "Krakor": 47.194
+        }
+    },
+    {
+        "district_name": "Chol Kiri",
+        "centroid": {
+            "longitude": 104.82156652098699,
+            "latitude": 12.159894496192601
+        },
+        "DIS_CODE": 402,
+        "distance_from_tuol_kouk": 65.6882962203791,
+        "actual_distance_from_tuol_kouk": null,
+        "neighbors": [
+            "Batheay",
+            "Kampong Chhnang",
+            "Kampong Leaeng",
+            "Kampong Tralach",
+            "Rolea B'ier",
+            "Baray"
+        ],
+        "distances_to_neighbors": {}
+    },
+    {
+        "district_name": "Kampong Chhnang",
+        "centroid": {
+            "longitude": 104.67729597605737,
+            "latitude": 12.260716554703514
+        },
+        "DIS_CODE": 403,
+        "distance_from_tuol_kouk": 80.02882578790602,
+        "actual_distance_from_tuol_kouk": 91.522,
+        "neighbors": [
+            "Chol Kiri",
+            "Kampong Leaeng",
+            "Rolea B'ier"
+        ],
+        "distances_to_neighbors": {
+            "Kampong Leaeng": 28.389,
+            "Rolea B'ier": 10.597
+        }
+    },
+    {
+        "district_name": "Kampong Leaeng",
+        "centroid": {
+            "longitude": 104.71287461119323,
+            "latitude": 12.429770368435284
+        },
+        "DIS_CODE": 404,
+        "distance_from_tuol_kouk": 97.13745846432394,
+        "actual_distance_from_tuol_kouk": 119.817,
+        "neighbors": [
+            "Baribour",
+            "Chol Kiri",
+            "Kampong Chhnang",
+            "Rolea B'ier",
+            "Baray",
+            "Kampong Svay",
+            "Stueng Saen",
+            "Santuk"
+        ],
+        "distances_to_neighbors": {
+            "Baribour": 59.916,
+            "Kampong Chhnang": 28.389,
+            "Rolea B'ier": 38.614,
+            "Baray": 88.807,
+            "Kampong Svay": 76.218,
+            "Stueng Saen": 42.92,
+            "Santuk": 97.024
+        }
+    },
+    {
+        "district_name": "Kampong Tralach",
+        "centroid": {
+            "longitude": 104.75303937538061,
+            "latitude": 11.977444414166824
+        },
+        "DIS_CODE": 405,
+        "distance_from_tuol_kouk": 47.6925852049054,
+        "actual_distance_from_tuol_kouk": 60.436,
+        "neighbors": [
+            "Batheay",
+            "Chol Kiri",
+            "Rolea B'ier",
+            "Sameakki Mean Chey",
+            "Tuek Phos",
+            "Odongk",
+            "Ponhea Lueu"
+        ],
+        "distances_to_neighbors": {
+            "Batheay": 66.22,
+            "Rolea B'ier": 37.436,
+            "Sameakki Mean Chey": 32.164,
+            "Tuek Phos": 52.071,
+            "Odongk": 49.959,
+            "Ponhea Lueu": 34.308
+        }
+    },
+    {
+        "district_name": "Rolea B'ier",
+        "centroid": {
+            "longitude": 104.60195039115456,
+            "latitude": 12.216484949511806
+        },
+        "DIS_CODE": 406,
+        "distance_from_tuol_kouk": 78.39575663864206,
+        "actual_distance_from_tuol_kouk": 90.499,
+        "neighbors": [
+            "Baribour",
+            "Chol Kiri",
+            "Kampong Chhnang",
+            "Kampong Leaeng",
+            "Kampong Tralach",
+            "Tuek Phos"
+        ],
+        "distances_to_neighbors": {
+            "Baribour": 31.421,
+            "Kampong Chhnang": 10.597,
+            "Kampong Leaeng": 38.614,
+            "Kampong Tralach": 37.436,
+            "Tuek Phos": 44.164
+        }
+    },
+    {
+        "district_name": "Sameakki Mean Chey",
+        "centroid": {
+            "longitude": 104.55509266306801,
+            "latitude": 11.868982672227245
+        },
+        "DIS_CODE": 407,
+        "distance_from_tuol_kouk": 49.92088601835498,
+        "actual_distance_from_tuol_kouk": 68.231,
+        "neighbors": [
+            "Kampong Tralach",
+            "Tuek Phos",
+            "Odongk",
+            "Thpong",
+            "Ponhea Lueu"
+        ],
+        "distances_to_neighbors": {
+            "Kampong Tralach": 32.164,
+            "Tuek Phos": 48.565,
+            "Odongk": 39.301,
+            "Thpong": 37.408,
+            "Ponhea Lueu": 42.103
+        }
+    },
+    {
+        "district_name": "Tuek Phos",
+        "centroid": {
+            "longitude": 104.3764628098636,
+            "latitude": 12.084533309693114
+        },
+        "DIS_CODE": 408,
+        "distance_from_tuol_kouk": 80.43265659091938,
+        "actual_distance_from_tuol_kouk": 105.438,
+        "neighbors": [
+            "Baribour",
+            "Kampong Tralach",
+            "Rolea B'ier",
+            "Sameakki Mean Chey",
+            "Aoral",
+            "Thpong",
+            "Krakor",
+            "Phnum Kravanh"
+        ],
+        "distances_to_neighbors": {
+            "Baribour": 71.979,
+            "Kampong Tralach": 52.071,
+            "Rolea B'ier": 44.164,
+            "Sameakki Mean Chey": 48.565,
+            "Aoral": 85.617,
+            "Thpong": 61.435,
+            "Krakor": 71.563,
+            "Phnum Kravanh": 132.835
+        }
+    },
+    {
+        "district_name": "Basedth",
+        "centroid": {
+            "longitude": 104.53539603142619,
+            "latitude": 11.185106608572218
+        },
+        "DIS_CODE": 501,
+        "distance_from_tuol_kouk": 58.28469854068038,
+        "actual_distance_from_tuol_kouk": 67.367,
+        "neighbors": [
+            "Kong Pisei",
+            "Phnum Sruoch",
+            "Samraong Tong",
+            "Chum Kiri",
+            "Samraong",
+            "Tram Kak"
+        ],
+        "distances_to_neighbors": {
+            "Kong Pisei": 23.918,
+            "Phnum Sruoch": 54.218,
+            "Samraong Tong": 48.401,
+            "Chum Kiri": 41.688,
+            "Samraong": 35.203,
+            "Tram Kak": 40.001
+        }
+    },
+    {
+        "district_name": "Chbar Mon",
+        "centroid": {
+            "longitude": 104.50653345052785,
+            "latitude": 11.472338423898625
+        },
+        "DIS_CODE": 502,
+        "distance_from_tuol_kouk": 44.183637003659335,
+        "actual_distance_from_tuol_kouk": 49.624,
+        "neighbors": [
+            "Samraong Tong"
+        ],
+        "distances_to_neighbors": {
+            "Samraong Tong": 3.637
+        }
+    },
+    {
+        "district_name": "Kong Pisei",
+        "centroid": {
+            "longitude": 104.65611482952534,
+            "latitude": 11.318501205760821
+        },
+        "DIS_CODE": 503,
+        "distance_from_tuol_kouk": 38.504322046390946,
+        "actual_distance_from_tuol_kouk": 44.885,
+        "neighbors": [
+            "Basedth",
+            "Samraong Tong",
+            "Kandal Stueng",
+            "Bati",
+            "Samraong"
+        ],
+        "distances_to_neighbors": {
+            "Basedth": 23.918,
+            "Samraong Tong": 37.695,
+            "Kandal Stueng": 28.272,
+            "Bati": 26.655,
+            "Samraong": 39.64
+        }
+    },
+    {
+        "district_name": "Aoral",
+        "centroid": {
+            "longitude": 104.05717145442449,
+            "latitude": 11.739550401560233
+        },
+        "DIS_CODE": 504,
+        "distance_from_tuol_kouk": 93.66659210847018,
+        "actual_distance_from_tuol_kouk": 109.269,
+        "neighbors": [
+            "Tuek Phos",
+            "Phnum Sruoch",
+            "Samraong Tong",
+            "Thpong"
+        ],
+        "distances_to_neighbors": {
+            "Tuek Phos": 85.617,
+            "Phnum Sruoch": 68.275,
+            "Samraong Tong": 61.04,
+            "Thpong": 52.859
+        }
+    },
+    {
+        "district_name": "Odongk",
+        "centroid": {
+            "longitude": 104.61142674090763,
+            "latitude": 11.669534158428533
+        },
+        "DIS_CODE": 505,
+        "distance_from_tuol_kouk": 33.20082468076681,
+        "actual_distance_from_tuol_kouk": 41.271,
+        "neighbors": [
+            "Kampong Tralach",
+            "Sameakki Mean Chey",
+            "Samraong Tong",
+            "Thpong",
+            "Angk Snuol",
+            "Ponhea Lueu"
+        ],
+        "distances_to_neighbors": {
+            "Kampong Tralach": 49.959,
+            "Sameakki Mean Chey": 39.301,
+            "Samraong Tong": 30.562,
+            "Thpong": 46.981,
+            "Angk Snuol": 27.086,
+            "Ponhea Lueu": 27.132
+        }
+    },
+    {
+        "district_name": "Phnum Sruoch",
+        "centroid": {
+            "longitude": 104.23589230093435,
+            "latitude": 11.311810952138963
+        },
+        "DIS_CODE": 506,
+        "distance_from_tuol_kouk": 77.83253659991419,
+        "actual_distance_from_tuol_kouk": 98.566,
+        "neighbors": [
+            "Basedth",
+            "Aoral",
+            "Samraong Tong",
+            "Chhuk",
+            "Chum Kiri",
+            "Srae Ambel",
+            "Kampong Seila"
+        ],
+        "distances_to_neighbors": {
+            "Basedth": 54.218,
+            "Aoral": 68.275,
+            "Samraong Tong": 37.794,
+            "Chhuk": 49.19,
+            "Chum Kiri": 70.796,
+            "Srae Ambel": 100.394,
+            "Kampong Seila": 42.442
+        }
+    },
+    {
+        "district_name": "Samraong Tong",
+        "centroid": {
+            "longitude": 104.49555934224583,
+            "latitude": 11.468643246609105
+        },
+        "DIS_CODE": 507,
+        "distance_from_tuol_kouk": 45.44506987086806,
+        "actual_distance_from_tuol_kouk": 52.488,
+        "neighbors": [
+            "Basedth",
+            "Chbar Mon",
+            "Kong Pisei",
+            "Aoral",
+            "Odongk",
+            "Phnum Sruoch",
+            "Thpong",
+            "Kandal Stueng",
+            "Angk Snuol"
+        ],
+        "distances_to_neighbors": {
+            "Basedth": 48.401,
+            "Chbar Mon": 3.637,
+            "Kong Pisei": 37.695,
+            "Aoral": 61.04,
+            "Odongk": 30.562,
+            "Phnum Sruoch": 37.794,
+            "Thpong": 54.942,
+            "Kandal Stueng": 45.513,
+            "Angk Snuol": 32.876
+        }
+    },
+    {
+        "district_name": "Thpong",
+        "centroid": {
+            "longitude": 104.37591327414015,
+            "latitude": 11.718520211088109
+        },
+        "DIS_CODE": 508,
+        "distance_from_tuol_kouk": 59.32744494558715,
+        "actual_distance_from_tuol_kouk": 90.217,
+        "neighbors": [
+            "Sameakki Mean Chey",
+            "Tuek Phos",
+            "Aoral",
+            "Odongk",
+            "Samraong Tong"
+        ],
+        "distances_to_neighbors": {
+            "Sameakki Mean Chey": 37.408,
+            "Tuek Phos": 61.435,
+            "Aoral": 52.859,
+            "Odongk": 46.981,
+            "Samraong Tong": 54.942
+        }
+    },
+    {
+        "district_name": "Baray",
+        "centroid": {
+            "longitude": 105.10344278652035,
+            "latitude": 12.388495783003323
+        },
+        "DIS_CODE": 601,
+        "distance_from_tuol_kouk": 93.1338762290982,
+        "actual_distance_from_tuol_kouk": 121.886,
+        "neighbors": [
+            "Batheay",
+            "Chamkar Leu",
+            "Cheung Prey",
+            "Prey Chhor",
+            "Stueng Trang",
+            "Chol Kiri",
+            "Kampong Leaeng",
+            "Santuk"
+        ],
+        "distances_to_neighbors": {
+            "Batheay": 60.493,
+            "Chamkar Leu": 30.684,
+            "Cheung Prey": 41.058,
+            "Prey Chhor": 44.931,
+            "Stueng Trang": 63.484,
+            "Kampong Leaeng": 88.807,
+            "Santuk": 46.619
+        }
+    },
+    {
+        "district_name": "Kampong Svay",
+        "centroid": {
+            "longitude": 104.74345222285723,
+            "latitude": 12.751639678420142
+        },
+        "DIS_CODE": 602,
+        "distance_from_tuol_kouk": 131.6992138953528,
+        "actual_distance_from_tuol_kouk": 199.148,
+        "neighbors": [
+            "Kampong Leaeng",
+            "Stueng Saen",
+            "Prasat Ballangk",
+            "Prasat Sambour",
+            "Santuk",
+            "Stoung"
+        ],
+        "distances_to_neighbors": {
+            "Kampong Leaeng": 76.218,
+            "Stueng Saen": 43.905,
+            "Prasat Ballangk": 51.189,
+            "Prasat Sambour": 65.003,
+            "Santuk": 93.772,
+            "Stoung": 43.973
+        }
+    },
+    {
+        "district_name": "Stueng Saen",
+        "centroid": {
+            "longitude": 104.85533154617121,
+            "latitude": 12.618533574771082
+        },
+        "DIS_CODE": 603,
+        "distance_from_tuol_kouk": 115.9788479218024,
+        "actual_distance_from_tuol_kouk": 171.609,
+        "neighbors": [
+            "Kampong Leaeng",
+            "Kampong Svay",
+            "Santuk"
+        ],
+        "distances_to_neighbors": {
+            "Kampong Leaeng": 42.92,
+            "Kampong Svay": 43.905,
+            "Santuk": 66.233
+        }
+    },
+    {
+        "district_name": "Prasat Ballangk",
+        "centroid": {
+            "longitude": 104.83481757454658,
+            "latitude": 13.081133689648686
+        },
+        "DIS_CODE": 604,
+        "distance_from_tuol_kouk": 167.20426135079435,
+        "actual_distance_from_tuol_kouk": 231.338,
+        "neighbors": [
+            "Kampong Svay",
+            "Prasat Sambour",
+            "Sandan",
+            "Stoung",
+            "Rovieng",
+            "Sangkum Thmei"
+        ],
+        "distances_to_neighbors": {
+            "Kampong Svay": 51.189,
+            "Prasat Sambour": 62.873,
+            "Sandan": 117.498,
+            "Stoung": 48.56,
+            "Rovieng": 92.413,
+            "Sangkum Thmei": 63.766
+        }
+    },
+    {
+        "district_name": "Prasat Sambour",
+        "centroid": {
+            "longitude": 105.14037039991881,
+            "latitude": 12.866076245920134
+        },
+        "DIS_CODE": 605,
+        "distance_from_tuol_kouk": 145.65408362991215,
+        "actual_distance_from_tuol_kouk": 214.04,
+        "neighbors": [
+            "Kampong Svay",
+            "Prasat Ballangk",
+            "Sandan",
+            "Santuk"
+        ],
+        "distances_to_neighbors": {
+            "Kampong Svay": 65.003,
+            "Prasat Ballangk": 62.873,
+            "Sandan": 67.19,
+            "Santuk": 108.664
+        }
+    },
+    {
+        "district_name": "Sandan",
+        "centroid": {
+            "longitude": 105.40994032575031,
+            "latitude": 13.071755441740484
+        },
+        "DIS_CODE": 606,
+        "distance_from_tuol_kouk": 175.0755271707376,
+        "actual_distance_from_tuol_kouk": 224.558,
+        "neighbors": [
+            "Prasat Ballangk",
+            "Prasat Sambour",
+            "Santuk",
+            "Sambour",
+            "Rovieng",
+            "Siem Bouk",
+            "Thala Barivat"
+        ],
+        "distances_to_neighbors": {
+            "Prasat Ballangk": 117.498,
+            "Prasat Sambour": 67.19,
+            "Santuk": 75.937,
+            "Sambour": 309.168,
+            "Rovieng": 146.776,
+            "Siem Bouk": 319.16,
+            "Thala Barivat": 279.742
+        }
+    },
+    {
+        "district_name": "Santuk",
+        "centroid": {
+            "longitude": 105.33669038252881,
+            "latitude": 12.627769965133517
+        },
+        "DIS_CODE": 607,
+        "distance_from_tuol_kouk": 126.24033240657785,
+        "actual_distance_from_tuol_kouk": 160.189,
+        "neighbors": [
+            "Stueng Trang",
+            "Kampong Leaeng",
+            "Baray",
+            "Kampong Svay",
+            "Stueng Saen",
+            "Prasat Sambour",
+            "Sandan",
+            "Prek Prasab",
+            "Sambour"
+        ],
+        "distances_to_neighbors": {
+            "Stueng Trang": 94.986,
+            "Kampong Leaeng": 97.024,
+            "Baray": 46.619,
+            "Kampong Svay": 93.772,
+            "Stueng Saen": 66.233,
+            "Prasat Sambour": 108.664,
+            "Sandan": 75.937,
+            "Prek Prasab": 150.524,
+            "Sambour": 244.799
+        }
+    },
+    {
+        "district_name": "Stoung",
+        "centroid": {
+            "longitude": 104.51062503837848,
+            "latitude": 12.935639944754982
+        },
+        "DIS_CODE": 608,
+        "distance_from_tuol_kouk": 156.76432321290397,
+        "actual_distance_from_tuol_kouk": 228.934,
+        "neighbors": [
+            "Kampong Svay",
+            "Prasat Ballangk",
+            "Sangkum Thmei",
+            "Chi Kraeng"
+        ],
+        "distances_to_neighbors": {
+            "Kampong Svay": 43.973,
+            "Prasat Ballangk": 48.56,
+            "Sangkum Thmei": 90.998,
+            "Chi Kraeng": 59.81
+        }
+    },
+    {
+        "district_name": "Angkor Chey",
+        "centroid": {
+            "longitude": 104.63068153490958,
+            "latitude": 10.806467629971808
+        },
+        "DIS_CODE": 701,
+        "distance_from_tuol_kouk": 89.50301072867784,
+        "actual_distance_from_tuol_kouk": 97.912,
+        "neighbors": [
+            "Banteay Meas",
+            "Chhuk",
+            "Kiri Vong",
+            "Tram Kak",
+            "Treang"
+        ],
+        "distances_to_neighbors": {
+            "Banteay Meas": 36.376,
+            "Chhuk": 72.81,
+            "Kiri Vong": 39.512,
+            "Tram Kak": 34.404,
+            "Treang": 38.049
+        }
+    },
+    {
+        "district_name": "Banteay Meas",
+        "centroid": {
+            "longitude": 104.60218065453999,
+            "latitude": 10.639594522557799
+        },
+        "DIS_CODE": 702,
+        "distance_from_tuol_kouk": 108.01035162797506,
+        "actual_distance_from_tuol_kouk": 123.814,
+        "neighbors": [
+            "Angkor Chey",
+            "Chhuk",
+            "Dang Tong",
+            "Kampong Trach",
+            "Kiri Vong"
+        ],
+        "distances_to_neighbors": {
+            "Angkor Chey": 36.376,
+            "Chhuk": 67.447,
+            "Dang Tong": 25.536,
+            "Kampong Trach": 28.503,
+            "Kiri Vong": 29.448
+        }
+    },
+    {
+        "district_name": "Chhuk",
+        "centroid": {
+            "longitude": 104.2637599114595,
+            "latitude": 10.94350576116481
+        },
+        "DIS_CODE": 703,
+        "distance_from_tuol_kouk": 98.1279232604555,
+        "actual_distance_from_tuol_kouk": 115.663,
+        "neighbors": [
+            "Phnum Sruoch",
+            "Angkor Chey",
+            "Banteay Meas",
+            "Chum Kiri",
+            "Dang Tong",
+            "Kampong Seila",
+            "Tram Kak"
+        ],
+        "distances_to_neighbors": {
+            "Phnum Sruoch": 49.19,
+            "Angkor Chey": 72.81,
+            "Banteay Meas": 67.447,
+            "Chum Kiri": 26.216,
+            "Dang Tong": 47.237,
+            "Kampong Seila": 71.577,
+            "Tram Kak": 52.515
+        }
+    },
+    {
+        "district_name": "Chum Kiri",
+        "centroid": {
+            "longitude": 104.43291821491138,
+            "latitude": 10.983661123357077
+        },
+        "DIS_CODE": 704,
+        "distance_from_tuol_kouk": 82.52682128649107,
+        "actual_distance_from_tuol_kouk": 93.541,
+        "neighbors": [
+            "Basedth",
+            "Phnum Sruoch",
+            "Chhuk",
+            "Tram Kak"
+        ],
+        "distances_to_neighbors": {
+            "Basedth": 41.688,
+            "Phnum Sruoch": 70.796,
+            "Chhuk": 26.216,
+            "Tram Kak": 30.392
+        }
+    },
+    {
+        "district_name": "Dang Tong",
+        "centroid": {
+            "longitude": 104.42223806623262,
+            "latitude": 10.707603858264909
+        },
+        "DIS_CODE": 705,
+        "distance_from_tuol_kouk": 108.78173271104467,
+        "actual_distance_from_tuol_kouk": 122.864,
+        "neighbors": [
+            "Banteay Meas",
+            "Chhuk",
+            "Kampong Trach",
+            "Tuek Chhou"
+        ],
+        "distances_to_neighbors": {
+            "Banteay Meas": 25.536,
+            "Chhuk": 47.237,
+            "Kampong Trach": 24.613,
+            "Tuek Chhou": 47.288
+        }
+    },
+    {
+        "district_name": "Kampong Trach",
+        "centroid": {
+            "longitude": 104.4759372968655,
+            "latitude": 10.531323989005825
+        },
+        "DIS_CODE": 706,
+        "distance_from_tuol_kouk": 123.9467980648396,
+        "actual_distance_from_tuol_kouk": 138.4,
+        "neighbors": [
+            "Banteay Meas",
+            "Dang Tong"
+        ],
+        "distances_to_neighbors": {
+            "Banteay Meas": 28.503,
+            "Dang Tong": 24.613
+        }
+    },
+    {
+        "district_name": "Tuek Chhou",
+        "centroid": {
+            "longitude": 104.10733742348229,
+            "latitude": 10.743039457719812
+        },
+        "DIS_CODE": 707,
+        "distance_from_tuol_kouk": 125.95756215465224,
+        "actual_distance_from_tuol_kouk": 153.772,
+        "neighbors": [
+            "Dang Tong",
+            "Kampot",
+            "Prey Nob",
+            "Kampong Seila",
+            "Kaeb"
+        ],
+        "distances_to_neighbors": {
+            "Dang Tong": 47.288,
+            "Kampot": 19.176,
+            "Prey Nob": 75.809,
+            "Kampong Seila": 153.265,
+            "Kaeb": 38.136
+        }
+    },
+    {
+        "district_name": "Kampot",
+        "centroid": {
+            "longitude": 104.16859962678109,
+            "latitude": 10.596882435962012
+        },
+        "DIS_CODE": 708,
+        "distance_from_tuol_kouk": 134.08428954891107,
+        "actual_distance_from_tuol_kouk": 150.205,
+        "neighbors": [
+            "Tuek Chhou"
+        ],
+        "distances_to_neighbors": {
+            "Tuek Chhou": 19.176
+        }
+    },
+    {
+        "district_name": "Kandal Stueng",
+        "centroid": {
+            "longitude": 104.83338886217881,
+            "latitude": 11.395660135553634
+        },
+        "DIS_CODE": 801,
+        "distance_from_tuol_kouk": 20.674662972345768,
+        "actual_distance_from_tuol_kouk": 28.842,
+        "neighbors": [
+            "Kong Pisei",
+            "Samraong Tong",
+            "Angk Snuol",
+            "S'ang",
+            "Ta Khmau",
+            "Dangkao",
+            "Pur SenChey",
+            "Bati"
+        ],
+        "distances_to_neighbors": {
+            "Kong Pisei": 28.272,
+            "Samraong Tong": 45.513,
+            "Angk Snuol": 37.923,
+            "S'ang": 35.732,
+            "Ta Khmau": 18.635,
+            "Dangkao": 14.007,
+            "Pur SenChey": 22.338,
+            "Bati": 20.809
+        }
+    },
+    {
+        "district_name": "Kien Svay",
+        "centroid": {
+            "longitude": 105.14381205044347,
+            "latitude": 11.419697597286566
+        },
+        "DIS_CODE": 802,
+        "distance_from_tuol_kouk": 31.519909706933184,
+        "actual_distance_from_tuol_kouk": 37.422,
+        "neighbors": [
+            "Leuk Daek",
+            "Lvea Aem",
+            "S'ang",
+            "Chbar Ampov",
+            "Peam Ro"
+        ],
+        "distances_to_neighbors": {
+            "Leuk Daek": 51.004,
+            "Lvea Aem": 19.768,
+            "S'ang": 37.138,
+            "Chbar Ampov": 27.133,
+            "Peam Ro": 48.331
+        }
+    },
+    {
+        "district_name": "Khsach Kandal",
+        "centroid": {
+            "longitude": 105.03598580404527,
+            "latitude": 11.693072811821613
+        },
+        "DIS_CODE": 803,
+        "distance_from_tuol_kouk": 20.136856142429288,
+        "actual_distance_from_tuol_kouk": 40.501,
+        "neighbors": [
+            "Kang Meas",
+            "Srei Santhor",
+            "Lvea Aem",
+            "Mukh Kampul",
+            "Chraoy Chongvar",
+            "Pea Reang"
+        ],
+        "distances_to_neighbors": {
+            "Kang Meas": 51.388,
+            "Srei Santhor": 40.945,
+            "Lvea Aem": 29.394,
+            "Mukh Kampul": 31.143,
+            "Chraoy Chongvar": 26.937,
+            "Pea Reang": 26.342
+        }
+    },
+    {
+        "district_name": "Kaoh Thum",
+        "centroid": {
+            "longitude": 105.08296098692587,
+            "latitude": 11.08857840922653
+        },
+        "DIS_CODE": 804,
+        "distance_from_tuol_kouk": 57.01762906479308,
+        "actual_distance_from_tuol_kouk": 69.385,
+        "neighbors": [
+            "Leuk Daek",
+            "S'ang",
+            "Angkor Borei",
+            "Prey Kabbas"
+        ],
+        "distances_to_neighbors": {
+            "Leuk Daek": 59.687,
+            "S'ang": 30.844,
+            "Angkor Borei": 46.913,
+            "Prey Kabbas": 29.983
+        }
+    },
+    {
+        "district_name": "Leuk Daek",
+        "centroid": {
+            "longitude": 105.19744994229255,
+            "latitude": 11.162026312710884
+        },
+        "DIS_CODE": 805,
+        "distance_from_tuol_kouk": 55.747711787977856,
+        "actual_distance_from_tuol_kouk": 82.145,
+        "neighbors": [
+            "Kien Svay",
+            "Kaoh Thum",
+            "S'ang",
+            "Peam Chor",
+            "Peam Ro"
+        ],
+        "distances_to_neighbors": {
+            "Kien Svay": 51.004,
+            "Kaoh Thum": 59.687,
+            "S'ang": 84.654,
+            "Peam Chor": 68.974,
+            "Peam Ro": 41.506
+        }
+    },
+    {
+        "district_name": "Lvea Aem",
+        "centroid": {
+            "longitude": 105.12098874150213,
+            "latitude": 11.524891548617433
+        },
+        "DIS_CODE": 806,
+        "distance_from_tuol_kouk": 24.74603346508899,
+        "actual_distance_from_tuol_kouk": 35.898,
+        "neighbors": [
+            "Kien Svay",
+            "Khsach Kandal",
+            "Chamkar Mon",
+            "Doun Penh",
+            "Chraoy Chongvar",
+            "Chbar Ampov",
+            "Peam Ro",
+            "Pea Reang",
+            "Pur Rieng"
+        ],
+        "distances_to_neighbors": {
+            "Kien Svay": 19.768,
+            "Khsach Kandal": 29.394,
+            "Chamkar Mon": 31.921,
+            "Doun Penh": 32.945,
+            "Chraoy Chongvar": 51.708,
+            "Chbar Ampov": 25.609,
+            "Peam Ro": 81.37,
+            "Pea Reang": 31.524,
+            "Pur Rieng": 19.229
+        }
+    },
+    {
+        "district_name": "Mukh Kampul",
+        "centroid": {
+            "longitude": 104.93769690196659,
+            "latitude": 11.773012073680414
+        },
+        "DIS_CODE": 807,
+        "distance_from_tuol_kouk": 22.741347337083774,
+        "actual_distance_from_tuol_kouk": 30.347,
+        "neighbors": [
+            "Batheay",
+            "Kang Meas",
+            "Khsach Kandal",
+            "Ponhea Lueu",
+            "Chraoy Chongvar",
+            "Praek Pnov"
+        ],
+        "distances_to_neighbors": {
+            "Batheay": 35.309,
+            "Kang Meas": 40.12,
+            "Khsach Kandal": 31.143,
+            "Ponhea Lueu": 46.494,
+            "Chraoy Chongvar": 16.783,
+            "Praek Pnov": 30.68
+        }
+    },
+    {
+        "district_name": "Angk Snuol",
+        "centroid": {
+            "longitude": 104.70995601570853,
+            "latitude": 11.551640350863435
+        },
+        "DIS_CODE": 808,
+        "distance_from_tuol_kouk": 20.73098886811396,
+        "actual_distance_from_tuol_kouk": 28.315,
+        "neighbors": [
+            "Odongk",
+            "Samraong Tong",
+            "Kandal Stueng",
+            "Ponhea Lueu",
+            "Pur SenChey",
+            "Praek Pnov"
+        ],
+        "distances_to_neighbors": {
+            "Odongk": 27.086,
+            "Samraong Tong": 32.876,
+            "Kandal Stueng": 37.923,
+            "Ponhea Lueu": 36.611,
+            "Pur SenChey": 16.366,
+            "Praek Pnov": 22.35
+        }
+    },
+    {
+        "district_name": "Ponhea Lueu",
+        "centroid": {
+            "longitude": 104.79927706237734,
+            "latitude": 11.768061526545896
+        },
+        "DIS_CODE": 809,
+        "distance_from_tuol_kouk": 24.36014580732052,
+        "actual_distance_from_tuol_kouk": 44.74,
+        "neighbors": [
+            "Batheay",
+            "Kampong Tralach",
+            "Sameakki Mean Chey",
+            "Odongk",
+            "Mukh Kampul",
+            "Angk Snuol",
+            "Praek Pnov"
+        ],
+        "distances_to_neighbors": {
+            "Batheay": 50.457,
+            "Kampong Tralach": 34.308,
+            "Sameakki Mean Chey": 42.103,
+            "Odongk": 27.132,
+            "Mukh Kampul": 46.494,
+            "Angk Snuol": 36.611,
+            "Praek Pnov": 41.214
+        }
+    },
+    {
+        "district_name": "S'ang",
+        "centroid": {
+            "longitude": 105.0363542768151,
+            "latitude": 11.32121180027919
+        },
+        "DIS_CODE": 810,
+        "distance_from_tuol_kouk": 31.434356281330267,
+        "actual_distance_from_tuol_kouk": 39.837,
+        "neighbors": [
+            "Kandal Stueng",
+            "Kien Svay",
+            "Kaoh Thum",
+            "Leuk Daek",
+            "Ta Khmau",
+            "Chbar Ampov",
+            "Bati",
+            "Prey Kabbas"
+        ],
+        "distances_to_neighbors": {
+            "Kandal Stueng": 35.732,
+            "Kien Svay": 37.138,
+            "Kaoh Thum": 30.844,
+            "Leuk Daek": 84.654,
+            "Ta Khmau": 22.597,
+            "Chbar Ampov": 28.806,
+            "Bati": 46.554,
+            "Prey Kabbas": 34.622
+        }
+    },
+    {
+        "district_name": "Ta Khmau",
+        "centroid": {
+            "longitude": 104.94251030029946,
+            "latitude": 11.455732549190472
+        },
+        "DIS_CODE": 811,
+        "distance_from_tuol_kouk": 13.605589045102963,
+        "actual_distance_from_tuol_kouk": 17.732,
+        "neighbors": [
+            "Kandal Stueng",
+            "S'ang",
+            "Dangkao",
+            "Mean Chey",
+            "Chbar Ampov"
+        ],
+        "distances_to_neighbors": {
+            "Kandal Stueng": 18.635,
+            "S'ang": 22.597,
+            "Dangkao": 10.618,
+            "Mean Chey": 12.32,
+            "Chbar Ampov": 10.723
+        }
+    },
+    {
+        "district_name": "Botum Sakor",
+        "centroid": {
+            "longitude": 103.3777932188187,
+            "latitude": 11.093564020386493
+        },
+        "DIS_CODE": 901,
+        "distance_from_tuol_kouk": 174.2551379470463,
+        "actual_distance_from_tuol_kouk": 212.026,
+        "neighbors": [
+            "Kiri Sakor",
+            "Kaoh Kong",
+            "Srae Ambel",
+            "Thma Bang"
+        ],
+        "distances_to_neighbors": {
+            "Kiri Sakor": 43.634,
+            "Kaoh Kong": 54.126,
+            "Srae Ambel": 77.743,
+            "Thma Bang": 120.08
+        }
+    },
+    {
+        "district_name": "Kiri Sakor",
+        "centroid": {
+            "longitude": 103.17160274763873,
+            "latitude": 11.112293345121593
+        },
+        "DIS_CODE": 902,
+        "distance_from_tuol_kouk": 195.2691906910829,
+        "actual_distance_from_tuol_kouk": 255.659,
+        "neighbors": [
+            "Botum Sakor",
+            "Kaoh Kong"
+        ],
+        "distances_to_neighbors": {
+            "Botum Sakor": 43.634,
+            "Kaoh Kong": 97.759
+        }
+    },
+    {
+        "district_name": "Kaoh Kong",
+        "centroid": {
+            "longitude": 103.24519487088978,
+            "latitude": 11.425583475899117
+        },
+        "DIS_CODE": 903,
+        "distance_from_tuol_kouk": 181.14528119294857,
+        "actual_distance_from_tuol_kouk": 239.689,
+        "neighbors": [
+            "Botum Sakor",
+            "Kiri Sakor",
+            "Mondol Seima",
+            "Thma Bang"
+        ],
+        "distances_to_neighbors": {
+            "Botum Sakor": 54.126,
+            "Kiri Sakor": 97.759,
+            "Mondol Seima": 79.501,
+            "Thma Bang": 65.955
+        }
+    },
+    {
+        "district_name": "Khemara Phoumin",
+        "centroid": {
+            "longitude": 103.02532529249146,
+            "latitude": 11.597640293077026
+        },
+        "DIS_CODE": 904,
+        "distance_from_tuol_kouk": 204.37632337922713,
+        "actual_distance_from_tuol_kouk": 287.171,
+        "neighbors": [
+            "Mondol Seima"
+        ],
+        "distances_to_neighbors": {
+            "Mondol Seima": 54.449
+        }
+    },
+    {
+        "district_name": "Mondol Seima",
+        "centroid": {
+            "longitude": 103.00984891499782,
+            "latitude": 11.788843654187714
+        },
+        "DIS_CODE": 905,
+        "distance_from_tuol_kouk": 207.37744978356824,
+        "actual_distance_from_tuol_kouk": 319.176,
+        "neighbors": [
+            "Kaoh Kong",
+            "Khemara Phoumin",
+            "Thma Bang",
+            "Veal Veaeng"
+        ],
+        "distances_to_neighbors": {
+            "Kaoh Kong": 79.501,
+            "Khemara Phoumin": 54.449,
+            "Thma Bang": 101.719,
+            "Veal Veaeng": 99.715
+        }
+    },
+    {
+        "district_name": "Srae Ambel",
+        "centroid": {
+            "longitude": 103.76458112521634,
+            "latitude": 11.303590577482836
+        },
+        "DIS_CODE": 906,
+        "distance_from_tuol_kouk": 127.2764202711803,
+        "actual_distance_from_tuol_kouk": 177.979,
+        "neighbors": [
+            "Phnum Sruoch",
+            "Botum Sakor",
+            "Thma Bang",
+            "Kampong Seila"
+        ],
+        "distances_to_neighbors": {
+            "Phnum Sruoch": 100.394,
+            "Botum Sakor": 77.743,
+            "Thma Bang": 171.362,
+            "Kampong Seila": 68.404
+        }
+    },
+    {
+        "district_name": "Thma Bang",
+        "centroid": {
+            "longitude": 103.49218787912147,
+            "latitude": 11.753118989535103
+        },
+        "DIS_CODE": 907,
+        "distance_from_tuol_kouk": 154.71080860851964,
+        "actual_distance_from_tuol_kouk": 305.644,
+        "neighbors": [
+            "Botum Sakor",
+            "Kaoh Kong",
+            "Mondol Seima",
+            "Srae Ambel",
+            "Phnum Kravanh",
+            "Veal Veaeng"
+        ],
+        "distances_to_neighbors": {
+            "Botum Sakor": 120.08,
+            "Kaoh Kong": 65.955,
+            "Mondol Seima": 101.719,
+            "Srae Ambel": 171.362,
+            "Phnum Kravanh": 281.174,
+            "Veal Veaeng": 174.484
+        }
+    },
+    {
+        "district_name": "Chhloung",
+        "centroid": {
+            "longitude": 106.11177550089855,
+            "latitude": 12.180151044739521
+        },
+        "DIS_CODE": 1001,
+        "distance_from_tuol_kouk": 148.32439184570106,
+        "actual_distance_from_tuol_kouk": 229.684,
+        "neighbors": [
+            "Prek Prasab",
+            "Snuol",
+            "Chetr Borei",
+            "Dambae",
+            "Krouch Chhmar",
+            "Memot"
+        ],
+        "distances_to_neighbors": {
+            "Prek Prasab": 65.533,
+            "Snuol": 124.879,
+            "Chetr Borei": 88.71,
+            "Dambae": 53.022,
+            "Krouch Chhmar": 78.902,
+            "Memot": 96.299
+        }
+    },
+    {
+        "district_name": "Kracheh",
+        "centroid": {
+            "longitude": 106.0404426774042,
+            "latitude": 12.489668487146679
+        },
+        "DIS_CODE": 1002,
+        "distance_from_tuol_kouk": 160.54871949360225,
+        "actual_distance_from_tuol_kouk": 243.247,
+        "neighbors": [
+            "Prek Prasab",
+            "Chetr Borei"
+        ],
+        "distances_to_neighbors": {
+            "Prek Prasab": 37.085,
+            "Chetr Borei": 33.609
+        }
+    },
+    {
+        "district_name": "Prek Prasab",
+        "centroid": {
+            "longitude": 105.87448139978146,
+            "latitude": 12.474902428845068
+        },
+        "DIS_CODE": 1003,
+        "distance_from_tuol_kouk": 145.88196149476988,
+        "actual_distance_from_tuol_kouk": 216.22,
+        "neighbors": [
+            "Stueng Trang",
+            "Santuk",
+            "Chhloung",
+            "Kracheh",
+            "Sambour",
+            "Chetr Borei",
+            "Krouch Chhmar"
+        ],
+        "distances_to_neighbors": {
+            "Stueng Trang": 64.998,
+            "Santuk": 150.524,
+            "Chhloung": 65.533,
+            "Kracheh": 37.085,
+            "Sambour": 104.307,
+            "Chetr Borei": 68.853,
+            "Krouch Chhmar": 96.161
+        }
+    },
+    {
+        "district_name": "Sambour",
+        "centroid": {
+            "longitude": 106.08873523224489,
+            "latitude": 12.985490175163857
+        },
+        "DIS_CODE": 1004,
+        "distance_from_tuol_kouk": 203.06779680054723,
+        "actual_distance_from_tuol_kouk": 325.399,
+        "neighbors": [
+            "Sandan",
+            "Santuk",
+            "Prek Prasab",
+            "Chetr Borei",
+            "Kaev Seima",
+            "Kaoh Nheaek",
+            "Pech Chreada",
+            "Sesan",
+            "Siem Bouk"
+        ],
+        "distances_to_neighbors": {
+            "Sandan": 309.168,
+            "Santuk": 244.799,
+            "Prek Prasab": 104.307,
+            "Chetr Borei": 89.12,
+            "Kaoh Nheaek": 252.636,
+            "Pech Chreada": 309.94,
+            "Sesan": 124.234,
+            "Siem Bouk": 122.014
+        }
+    },
+    {
+        "district_name": "Snuol",
+        "centroid": {
+            "longitude": 106.47104740917459,
+            "latitude": 12.195272401173174
+        },
+        "DIS_CODE": 1005,
+        "distance_from_tuol_kouk": 184.6705306161928,
+        "actual_distance_from_tuol_kouk": 250.72,
+        "neighbors": [
+            "Chhloung",
+            "Chetr Borei",
+            "Memot"
+        ],
+        "distances_to_neighbors": {
+            "Chhloung": 124.879,
+            "Chetr Borei": 97.04,
+            "Memot": 68.153
+        }
+    },
+    {
+        "district_name": "Chetr Borei",
+        "centroid": {
+            "longitude": 106.20256635118245,
+            "latitude": 12.573781155700523
+        },
+        "DIS_CODE": 1006,
+        "distance_from_tuol_kouk": 180.13145909333224,
+        "actual_distance_from_tuol_kouk": 274.99,
+        "neighbors": [
+            "Chhloung",
+            "Kracheh",
+            "Prek Prasab",
+            "Sambour",
+            "Snuol",
+            "Kaev Seima"
+        ],
+        "distances_to_neighbors": {
+            "Chhloung": 88.71,
+            "Kracheh": 33.609,
+            "Prek Prasab": 68.853,
+            "Sambour": 89.12,
+            "Snuol": 97.04
+        }
+    },
+    {
+        "district_name": "Kaev Seima",
+        "centroid": {
+            "longitude": 106.73525587427505,
+            "latitude": 12.438472156906728
+        },
+        "DIS_CODE": 1101,
+        "distance_from_tuol_kouk": 221.80061812888073,
+        "actual_distance_from_tuol_kouk": null,
+        "neighbors": [
+            "Sambour",
+            "Chetr Borei",
+            "Ou Reang",
+            "Pech Chreada",
+            "Saen Monourom"
+        ],
+        "distances_to_neighbors": {}
+    },
+    {
+        "district_name": "Kaoh Nheaek",
+        "centroid": {
+            "longitude": 106.96683532733114,
+            "latitude": 13.104608631585403
+        },
+        "DIS_CODE": 1102,
+        "distance_from_tuol_kouk": 281.7146177798845,
+        "actual_distance_from_tuol_kouk": 462.271,
+        "neighbors": [
+            "Sambour",
+            "Pech Chreada",
+            "Koun Mom",
+            "Lumphat",
+            "Ou Ya Dav",
+            "Sesan"
+        ],
+        "distances_to_neighbors": {
+            "Sambour": 252.636,
+            "Pech Chreada": 60.591,
+            "Koun Mom": 107.636,
+            "Lumphat": 68.113,
+            "Ou Ya Dav": 127.105,
+            "Sesan": 146.79
+        }
+    },
+    {
+        "district_name": "Ou Reang",
+        "centroid": {
+            "longitude": 107.17102474968844,
+            "latitude": 12.356822879997464
+        },
+        "DIS_CODE": 1103,
+        "distance_from_tuol_kouk": 262.28402263810415,
+        "actual_distance_from_tuol_kouk": 344.324,
+        "neighbors": [
+            "Kaev Seima",
+            "Pech Chreada",
+            "Saen Monourom"
+        ],
+        "distances_to_neighbors": {
+            "Pech Chreada": 58.788,
+            "Saen Monourom": 22.608
+        }
+    },
+    {
+        "district_name": "Pech Chreada",
+        "centroid": {
+            "longitude": 107.1316081576582,
+            "latitude": 12.710287779994962
+        },
+        "DIS_CODE": 1104,
+        "distance_from_tuol_kouk": 273.74341239370835,
+        "actual_distance_from_tuol_kouk": 403.15,
+        "neighbors": [
+            "Sambour",
+            "Kaev Seima",
+            "Kaoh Nheaek",
+            "Ou Reang",
+            "Saen Monourom"
+        ],
+        "distances_to_neighbors": {
+            "Sambour": 309.94,
+            "Kaoh Nheaek": 60.591,
+            "Ou Reang": 58.788,
+            "Saen Monourom": 47.793
+        }
+    },
+    {
+        "district_name": "Saen Monourom",
+        "centroid": {
+            "longitude": 107.16799086400466,
+            "latitude": 12.505637313942986
+        },
+        "DIS_CODE": 1105,
+        "distance_from_tuol_kouk": 267.8222058945847,
+        "actual_distance_from_tuol_kouk": 366.947,
+        "neighbors": [
+            "Kaev Seima",
+            "Ou Reang",
+            "Pech Chreada"
+        ],
+        "distances_to_neighbors": {
+            "Ou Reang": 22.608,
+            "Pech Chreada": 47.793
+        }
+    },
+    {
+        "district_name": "Chamkar Mon",
+        "centroid": {
+            "longitude": 104.9237644040494,
+            "latitude": 11.5453044467292
+        },
+        "DIS_CODE": 1201,
+        "distance_from_tuol_kouk": 3.921212908330188,
+        "actual_distance_from_tuol_kouk": 5.34,
+        "neighbors": [
+            "Lvea Aem",
+            "Doun Penh",
+            "Prampir Meakkakra",
+            "Tuol Kouk",
+            "Chbar Ampov"
+        ],
+        "distances_to_neighbors": {
+            "Lvea Aem": 31.921,
+            "Doun Penh": 3.468,
+            "Prampir Meakkakra": 3.085,
+            "Tuol Kouk": 5.601,
+            "Chbar Ampov": 11.863
+        }
+    },
+    {
+        "district_name": "Doun Penh",
+        "centroid": {
+            "longitude": 104.92348421438211,
+            "latitude": 11.570738893099513
+        },
+        "DIS_CODE": 1202,
+        "distance_from_tuol_kouk": 2.670695324735163,
+        "actual_distance_from_tuol_kouk": 3.087,
+        "neighbors": [
+            "Lvea Aem",
+            "Chamkar Mon",
+            "Prampir Meakkakra",
+            "Tuol Kouk",
+            "Russey Keo",
+            "Chraoy Chongvar",
+            "Chbar Ampov"
+        ],
+        "distances_to_neighbors": {
+            "Lvea Aem": 32.945,
+            "Chamkar Mon": 3.468,
+            "Prampir Meakkakra": 2.025,
+            "Tuol Kouk": 3.348,
+            "Russey Keo": 7.126,
+            "Chraoy Chongvar": 13.072,
+            "Chbar Ampov": 12.874
+        }
+    },
+    {
+        "district_name": "Prampir Meakkakra",
+        "centroid": {
+            "longitude": 104.91344851845115,
+            "latitude": 11.563503925447538
+        },
+        "DIS_CODE": 1203,
+        "distance_from_tuol_kouk": 1.7807849859092777,
+        "actual_distance_from_tuol_kouk": 2.616,
+        "neighbors": [
+            "Chamkar Mon",
+            "Doun Penh",
+            "Tuol Kouk"
+        ],
+        "distances_to_neighbors": {
+            "Chamkar Mon": 3.085,
+            "Doun Penh": 2.025,
+            "Tuol Kouk": 2.877
+        }
+    },
+    {
+        "district_name": "Tuol Kouk",
+        "centroid": {
+            "longitude": 104.8969161077831,
+            "latitude": 11.5686353722197
+        },
+        "DIS_CODE": 1204,
+        "distance_from_tuol_kouk": 0.3465302492664374,
+        "actual_distance_from_tuol_kouk": 0.727,
+        "neighbors": [
+            "Chamkar Mon",
+            "Doun Penh",
+            "Prampir Meakkakra",
+            "Mean Chey",
+            "Russey Keo"
+        ],
+        "distances_to_neighbors": {
+            "Chamkar Mon": 5.601,
+            "Doun Penh": 3.348,
+            "Prampir Meakkakra": 2.877,
+            "Mean Chey": 8.373,
+            "Russey Keo": 6.264
+        }
+    },
+    {
+        "district_name": "Dangkao",
+        "centroid": {
+            "longitude": 104.86091649531006,
+            "latitude": 11.4690240628861
+        },
+        "DIS_CODE": 1205,
+        "distance_from_tuol_kouk": 12.02117965615677,
+        "actual_distance_from_tuol_kouk": 14.281,
+        "neighbors": [
+            "Kandal Stueng",
+            "Ta Khmau",
+            "Pur SenChey"
+        ],
+        "distances_to_neighbors": {
+            "Kandal Stueng": 14.007,
+            "Ta Khmau": 10.618,
+            "Pur SenChey": 19.302
+        }
+    },
+    {
+        "district_name": "Mean Chey",
+        "centroid": {
+            "longitude": 104.90577695508085,
+            "latitude": 11.520998673904774
+        },
+        "DIS_CODE": 1206,
+        "distance_from_tuol_kouk": 5.580267143794885,
+        "actual_distance_from_tuol_kouk": 7.935,
+        "neighbors": [
+            "Ta Khmau",
+            "Tuol Kouk",
+            "Saensokh",
+            "Pur SenChey",
+            "Chbar Ampov"
+        ],
+        "distances_to_neighbors": {
+            "Ta Khmau": 12.32,
+            "Tuol Kouk": 8.373,
+            "Saensokh": 12.668,
+            "Pur SenChey": 14.515,
+            "Chbar Ampov": 13.343
+        }
+    },
+    {
+        "district_name": "Russey Keo",
+        "centroid": {
+            "longitude": 104.89574319694295,
+            "latitude": 11.617839879287429
+        },
+        "DIS_CODE": 1207,
+        "distance_from_tuol_kouk": 5.193547732834778,
+        "actual_distance_from_tuol_kouk": 6.046,
+        "neighbors": [
+            "Doun Penh",
+            "Tuol Kouk",
+            "Saensokh",
+            "Chraoy Chongvar",
+            "Praek Pnov"
+        ],
+        "distances_to_neighbors": {
+            "Doun Penh": 7.126,
+            "Tuol Kouk": 6.264,
+            "Saensokh": 6.408,
+            "Chraoy Chongvar": 11.509,
+            "Praek Pnov": 14.854
+        }
+    },
+    {
+        "district_name": "Saensokh",
+        "centroid": {
+            "longitude": 104.86044572670772,
+            "latitude": 11.595851071854781
+        },
+        "DIS_CODE": 1208,
+        "distance_from_tuol_kouk": 5.0238462642720325,
+        "actual_distance_from_tuol_kouk": 7.742,
+        "neighbors": [
+            "Mean Chey",
+            "Russey Keo",
+            "Praek Pnov"
+        ],
+        "distances_to_neighbors": {
+            "Mean Chey": 12.668,
+            "Russey Keo": 6.408,
+            "Praek Pnov": 12.143
+        }
+    },
+    {
+        "district_name": "Pur SenChey",
+        "centroid": {
+            "longitude": 104.79337937942422,
+            "latitude": 11.535625481391845
+        },
+        "DIS_CODE": 1209,
+        "distance_from_tuol_kouk": 12.167361649785352,
+        "actual_distance_from_tuol_kouk": 14.579,
+        "neighbors": [
+            "Kandal Stueng",
+            "Angk Snuol",
+            "Dangkao",
+            "Mean Chey"
+        ],
+        "distances_to_neighbors": {
+            "Kandal Stueng": 22.338,
+            "Angk Snuol": 16.366,
+            "Dangkao": 19.302,
+            "Mean Chey": 14.515
+        }
+    },
+    {
+        "district_name": "Chraoy Chongvar",
+        "centroid": {
+            "longitude": 104.92345142119835,
+            "latitude": 11.665696549137465
+        },
+        "DIS_CODE": 1210,
+        "distance_from_tuol_kouk": 10.809326100056577,
+        "actual_distance_from_tuol_kouk": 14.684,
+        "neighbors": [
+            "Khsach Kandal",
+            "Lvea Aem",
+            "Mukh Kampul",
+            "Doun Penh",
+            "Russey Keo",
+            "Praek Pnov"
+        ],
+        "distances_to_neighbors": {
+            "Khsach Kandal": 26.937,
+            "Lvea Aem": 51.708,
+            "Mukh Kampul": 16.783,
+            "Doun Penh": 13.072,
+            "Russey Keo": 11.509,
+            "Praek Pnov": 19.342
+        }
+    },
+    {
+        "district_name": "Praek Pnov",
+        "centroid": {
+            "longitude": 104.80016373760617,
+            "latitude": 11.640362289581514
+        },
+        "DIS_CODE": 1211,
+        "distance_from_tuol_kouk": 13.230912510525451,
+        "actual_distance_from_tuol_kouk": 18.567,
+        "neighbors": [
+            "Mukh Kampul",
+            "Angk Snuol",
+            "Ponhea Lueu",
+            "Russey Keo",
+            "Saensokh",
+            "Chraoy Chongvar"
+        ],
+        "distances_to_neighbors": {
+            "Mukh Kampul": 30.68,
+            "Angk Snuol": 22.35,
+            "Ponhea Lueu": 41.214,
+            "Russey Keo": 14.854,
+            "Saensokh": 12.143,
+            "Chraoy Chongvar": 19.342
+        }
+    },
+    {
+        "district_name": "Chbar Ampov",
+        "centroid": {
+            "longitude": 104.9864261299088,
+            "latitude": 11.508126820585959
+        },
+        "DIS_CODE": 1212,
+        "distance_from_tuol_kouk": 11.803461339495774,
+        "actual_distance_from_tuol_kouk": 16.165,
+        "neighbors": [
+            "Kien Svay",
+            "Lvea Aem",
+            "S'ang",
+            "Ta Khmau",
+            "Chamkar Mon",
+            "Doun Penh",
+            "Mean Chey"
+        ],
+        "distances_to_neighbors": {
+            "Kien Svay": 27.133,
+            "Lvea Aem": 25.609,
+            "S'ang": 28.806,
+            "Ta Khmau": 10.723,
+            "Chamkar Mon": 11.863,
+            "Doun Penh": 12.874,
+            "Mean Chey": 13.343
+        }
+    },
+    {
+        "district_name": "Chey Saen",
+        "centroid": {
+            "longitude": 105.34211250099564,
+            "latitude": 13.584040102828304
+        },
+        "DIS_CODE": 1301,
+        "distance_from_tuol_kouk": 227.84217956560005,
+        "actual_distance_from_tuol_kouk": 312.749,
+        "neighbors": [
+            "Chhaeb",
+            "Rovieng",
+            "Tbaeng Mean Chey",
+            "Thala Barivat"
+        ],
+        "distances_to_neighbors": {
+            "Chhaeb": 55.885,
+            "Rovieng": 56.15,
+            "Tbaeng Mean Chey": 73.093,
+            "Thala Barivat": 107.013
+        }
+    },
+    {
+        "district_name": "Chhaeb",
+        "centroid": {
+            "longitude": 105.46013338641423,
+            "latitude": 13.913020204203834
+        },
+        "DIS_CODE": 1302,
+        "distance_from_tuol_kouk": 266.16239845187584,
+        "actual_distance_from_tuol_kouk": 342.453,
+        "neighbors": [
+            "Chey Saen",
+            "Choam Ksant",
+            "Tbaeng Mean Chey",
+            "Thala Barivat"
+        ],
+        "distances_to_neighbors": {
+            "Chey Saen": 55.885,
+            "Choam Ksant": 148.986,
+            "Tbaeng Mean Chey": 79.078,
+            "Thala Barivat": 80.334
+        }
+    },
+    {
+        "district_name": "Choam Ksant",
+        "centroid": {
+            "longitude": 104.85942802380508,
+            "latitude": 14.163096176867224
+        },
+        "DIS_CODE": 1303,
+        "distance_from_tuol_kouk": 286.79454682063687,
+        "actual_distance_from_tuol_kouk": 379.901,
+        "neighbors": [
+            "Chhaeb",
+            "Kuleaen",
+            "Tbaeng Mean Chey",
+            "Trapeang Prasat"
+        ],
+        "distances_to_neighbors": {
+            "Chhaeb": 148.986,
+            "Kuleaen": 79.304,
+            "Tbaeng Mean Chey": 81.802,
+            "Trapeang Prasat": 76.471
+        }
+    },
+    {
+        "district_name": "Kuleaen",
+        "centroid": {
+            "longitude": 104.60921374738405,
+            "latitude": 13.788649162222717
+        },
+        "DIS_CODE": 1304,
+        "distance_from_tuol_kouk": 247.3447038663479,
+        "actual_distance_from_tuol_kouk": 351.046,
+        "neighbors": [
+            "Choam Ksant",
+            "Sangkum Thmei",
+            "Tbaeng Mean Chey",
+            "Preah Vihear",
+            "Chi Kraeng",
+            "Svay Leu",
+            "Trapeang Prasat"
+        ],
+        "distances_to_neighbors": {
+            "Choam Ksant": 79.304,
+            "Sangkum Thmei": 73.147,
+            "Tbaeng Mean Chey": 52.947,
+            "Preah Vihear": 53.798,
+            "Chi Kraeng": 126.172,
+            "Svay Leu": 62.209,
+            "Trapeang Prasat": 140.689
+        }
+    },
+    {
+        "district_name": "Rovieng",
+        "centroid": {
+            "longitude": 105.09521693471594,
+            "latitude": 13.353340582783668
+        },
+        "DIS_CODE": 1305,
+        "distance_from_tuol_kouk": 198.32378004912414,
+        "actual_distance_from_tuol_kouk": 260.616,
+        "neighbors": [
+            "Prasat Ballangk",
+            "Sandan",
+            "Chey Saen",
+            "Sangkum Thmei",
+            "Tbaeng Mean Chey",
+            "Thala Barivat"
+        ],
+        "distances_to_neighbors": {
+            "Prasat Ballangk": 92.413,
+            "Sandan": 146.776,
+            "Chey Saen": 56.15,
+            "Sangkum Thmei": 61.223,
+            "Tbaeng Mean Chey": 80.681,
+            "Thala Barivat": 136.983
+        }
+    },
+    {
+        "district_name": "Sangkum Thmei",
+        "centroid": {
+            "longitude": 104.77973751736394,
+            "latitude": 13.488571356070118
+        },
+        "DIS_CODE": 1306,
+        "distance_from_tuol_kouk": 212.5300958989177,
+        "actual_distance_from_tuol_kouk": 289.077,
+        "neighbors": [
+            "Prasat Ballangk",
+            "Stoung",
+            "Kuleaen",
+            "Rovieng",
+            "Tbaeng Mean Chey",
+            "Preah Vihear",
+            "Chi Kraeng"
+        ],
+        "distances_to_neighbors": {
+            "Prasat Ballangk": 63.766,
+            "Stoung": 90.998,
+            "Kuleaen": 73.147,
+            "Rovieng": 61.223,
+            "Tbaeng Mean Chey": 81.451,
+            "Preah Vihear": 70.164,
+            "Chi Kraeng": 134.242
+        }
+    },
+    {
+        "district_name": "Tbaeng Mean Chey",
+        "centroid": {
+            "longitude": 105.02782128182889,
+            "latitude": 13.8111535865328
+        },
+        "DIS_CODE": 1307,
+        "distance_from_tuol_kouk": 248.21837998378305,
+        "actual_distance_from_tuol_kouk": 308.486,
+        "neighbors": [
+            "Chey Saen",
+            "Chhaeb",
+            "Choam Ksant",
+            "Kuleaen",
+            "Rovieng",
+            "Sangkum Thmei",
+            "Preah Vihear"
+        ],
+        "distances_to_neighbors": {
+            "Chey Saen": 73.093,
+            "Chhaeb": 79.078,
+            "Choam Ksant": 81.802,
+            "Kuleaen": 52.947,
+            "Rovieng": 80.681,
+            "Sangkum Thmei": 81.451,
+            "Preah Vihear": 11.238
+        }
+    },
+    {
+        "district_name": "Preah Vihear",
+        "centroid": {
+            "longitude": 104.98080442876568,
+            "latitude": 13.737226235073397
+        },
+        "DIS_CODE": 1308,
+        "distance_from_tuol_kouk": 239.80932106355675,
+        "actual_distance_from_tuol_kouk": 297.248,
+        "neighbors": [
+            "Kuleaen",
+            "Sangkum Thmei",
+            "Tbaeng Mean Chey"
+        ],
+        "distances_to_neighbors": {
+            "Kuleaen": 53.798,
+            "Sangkum Thmei": 70.164,
+            "Tbaeng Mean Chey": 11.238
+        }
+    },
+    {
+        "district_name": "Ba Phnum",
+        "centroid": {
+            "longitude": 105.4206624377438,
+            "latitude": 11.283098339348328
+        },
+        "DIS_CODE": 1401,
+        "distance_from_tuol_kouk": 65.23017832874821,
+        "actual_distance_from_tuol_kouk": 88.28,
+        "neighbors": [
+            "Kampong Trabaek",
+            "Me Sang",
+            "Peam Ro",
+            "Preah Sdach",
+            "Svay Antor"
+        ],
+        "distances_to_neighbors": {
+            "Kampong Trabaek": 28.578,
+            "Me Sang": 23.864,
+            "Peam Ro": 27.306,
+            "Preah Sdach": 32.944,
+            "Svay Antor": 35.621
+        }
+    },
+    {
+        "district_name": "Kamchay Mear",
+        "centroid": {
+            "longitude": 105.64079123817655,
+            "latitude": 11.589899603517338
+        },
+        "DIS_CODE": 1402,
+        "distance_from_tuol_kouk": 80.93279118944562,
+        "actual_distance_from_tuol_kouk": 116.084,
+        "neighbors": [
+            "Kanhchriech",
+            "Me Sang",
+            "Svay Antor",
+            "Romeas Haek",
+            "Ponhea Kraek"
+        ],
+        "distances_to_neighbors": {
+            "Kanhchriech": 25.062,
+            "Me Sang": 36.852,
+            "Svay Antor": 37.202,
+            "Romeas Haek": 29.494,
+            "Ponhea Kraek": 38.29
+        }
+    },
+    {
+        "district_name": "Kampong Trabaek",
+        "centroid": {
+            "longitude": 105.53394675661634,
+            "latitude": 11.095648248862982
+        },
+        "DIS_CODE": 1403,
+        "distance_from_tuol_kouk": 87.00048612934577,
+        "actual_distance_from_tuol_kouk": 102.82,
+        "neighbors": [
+            "Ba Phnum",
+            "Me Sang",
+            "Preah Sdach",
+            "Svay Chrum"
+        ],
+        "distances_to_neighbors": {
+            "Ba Phnum": 28.578,
+            "Me Sang": 40.331,
+            "Preah Sdach": 30.882,
+            "Svay Chrum": 29.021
+        }
+    },
+    {
+        "district_name": "Kanhchriech",
+        "centroid": {
+            "longitude": 105.55856759545297,
+            "latitude": 11.686933463443767
+        },
+        "DIS_CODE": 1404,
+        "distance_from_tuol_kouk": 73.05974310873385,
+        "actual_distance_from_tuol_kouk": 110.43,
+        "neighbors": [
+            "Kamchay Mear",
+            "Pea Reang",
+            "Sithor Kandal",
+            "Svay Antor",
+            "Ou Reang Ov",
+            "Ponhea Kraek"
+        ],
+        "distances_to_neighbors": {
+            "Kamchay Mear": 25.062,
+            "Pea Reang": 48.903,
+            "Sithor Kandal": 31.455,
+            "Svay Antor": 37.906,
+            "Ou Reang Ov": 20.502,
+            "Ponhea Kraek": 47.141
+        }
+    },
+    {
+        "district_name": "Me Sang",
+        "centroid": {
+            "longitude": 105.57281771889548,
+            "latitude": 11.355682279242556
+        },
+        "DIS_CODE": 1405,
+        "distance_from_tuol_kouk": 77.28419257009519,
+        "actual_distance_from_tuol_kouk": 121.298,
+        "neighbors": [
+            "Ba Phnum",
+            "Kamchay Mear",
+            "Kampong Trabaek",
+            "Svay Antor",
+            "Romeas Haek",
+            "Svay Chrum"
+        ],
+        "distances_to_neighbors": {
+            "Ba Phnum": 23.864,
+            "Kamchay Mear": 36.852,
+            "Kampong Trabaek": 40.331,
+            "Svay Antor": 29.527,
+            "Romeas Haek": 32.379,
+            "Svay Chrum": 45.959
+        }
+    },
+    {
+        "district_name": "Peam Chor",
+        "centroid": {
+            "longitude": 105.26811102738583,
+            "latitude": 11.012119677016292
+        },
+        "DIS_CODE": 1406,
+        "distance_from_tuol_kouk": 73.79641079569103,
+        "actual_distance_from_tuol_kouk": 106.994,
+        "neighbors": [
+            "Leuk Daek",
+            "Peam Ro",
+            "Preah Sdach"
+        ],
+        "distances_to_neighbors": {
+            "Leuk Daek": 68.974,
+            "Peam Ro": 56.328,
+            "Preah Sdach": 16.784
+        }
+    },
+    {
+        "district_name": "Peam Ro",
+        "centroid": {
+            "longitude": 105.31584856790371,
+            "latitude": 11.353473461551548
+        },
+        "DIS_CODE": 1407,
+        "distance_from_tuol_kouk": 51.456593631789445,
+        "actual_distance_from_tuol_kouk": 79.49,
+        "neighbors": [
+            "Kien Svay",
+            "Leuk Daek",
+            "Lvea Aem",
+            "Ba Phnum",
+            "Peam Chor",
+            "Preah Sdach",
+            "Prey Veng",
+            "Pur Rieng",
+            "Svay Antor"
+        ],
+        "distances_to_neighbors": {
+            "Kien Svay": 48.331,
+            "Leuk Daek": 41.506,
+            "Lvea Aem": 81.37,
+            "Ba Phnum": 27.306,
+            "Peam Chor": 56.328,
+            "Preah Sdach": 40.105,
+            "Prey Veng": 16.168,
+            "Pur Rieng": 34.207,
+            "Svay Antor": 35.543
+        }
+    },
+    {
+        "district_name": "Pea Reang",
+        "centroid": {
+            "longitude": 105.24291193442066,
+            "latitude": 11.67001387648814
+        },
+        "DIS_CODE": 1408,
+        "distance_from_tuol_kouk": 39.071107560812756,
+        "actual_distance_from_tuol_kouk": 62.221,
+        "neighbors": [
+            "Srei Santhor",
+            "Khsach Kandal",
+            "Lvea Aem",
+            "Kanhchriech",
+            "Pur Rieng",
+            "Sithor Kandal",
+            "Svay Antor"
+        ],
+        "distances_to_neighbors": {
+            "Srei Santhor": 50.207,
+            "Khsach Kandal": 26.342,
+            "Lvea Aem": 31.524,
+            "Kanhchriech": 48.903,
+            "Pur Rieng": 21.3,
+            "Sithor Kandal": 27.013,
+            "Svay Antor": 34.951
+        }
+    },
+    {
+        "district_name": "Preah Sdach",
+        "centroid": {
+            "longitude": 105.37547304895712,
+            "latitude": 11.087510377608275
+        },
+        "DIS_CODE": 1409,
+        "distance_from_tuol_kouk": 74.60415948120186,
+        "actual_distance_from_tuol_kouk": 90.758,
+        "neighbors": [
+            "Ba Phnum",
+            "Kampong Trabaek",
+            "Peam Chor",
+            "Peam Ro"
+        ],
+        "distances_to_neighbors": {
+            "Ba Phnum": 32.944,
+            "Kampong Trabaek": 30.882,
+            "Peam Chor": 16.784,
+            "Peam Ro": 40.105
+        }
+    },
+    {
+        "district_name": "Prey Veng",
+        "centroid": {
+            "longitude": 105.33535527515451,
+            "latitude": 11.477697505889559
+        },
+        "DIS_CODE": 1410,
+        "distance_from_tuol_kouk": 48.70796537583356,
+        "actual_distance_from_tuol_kouk": 96.061,
+        "neighbors": [
+            "Peam Ro",
+            "Pur Rieng",
+            "Svay Antor"
+        ],
+        "distances_to_neighbors": {
+            "Peam Ro": 16.168,
+            "Pur Rieng": 19.267,
+            "Svay Antor": 20.603
+        }
+    },
+    {
+        "district_name": "Pur Rieng",
+        "centroid": {
+            "longitude": 105.25982473162696,
+            "latitude": 11.53474116674641
+        },
+        "DIS_CODE": 1411,
+        "distance_from_tuol_kouk": 39.56218220882227,
+        "actual_distance_from_tuol_kouk": 78.258,
+        "neighbors": [
+            "Lvea Aem",
+            "Peam Ro",
+            "Pea Reang",
+            "Prey Veng",
+            "Svay Antor"
+        ],
+        "distances_to_neighbors": {
+            "Lvea Aem": 19.229,
+            "Peam Ro": 34.207,
+            "Pea Reang": 21.3,
+            "Prey Veng": 19.267,
+            "Svay Antor": 32.962
+        }
+    },
+    {
+        "district_name": "Sithor Kandal",
+        "centroid": {
+            "longitude": 105.36164352311587,
+            "latitude": 11.774120710230209
+        },
+        "DIS_CODE": 1412,
+        "distance_from_tuol_kouk": 55.22106248480745,
+        "actual_distance_from_tuol_kouk": 88.905,
+        "neighbors": [
+            "Kaoh Soutin",
+            "Srei Santhor",
+            "Kanhchriech",
+            "Pea Reang",
+            "Ou Reang Ov"
+        ],
+        "distances_to_neighbors": {
+            "Kaoh Soutin": 23.006,
+            "Srei Santhor": 76.526,
+            "Kanhchriech": 31.455,
+            "Pea Reang": 27.013,
+            "Ou Reang Ov": 31.199
+        }
+    },
+    {
+        "district_name": "Svay Antor",
+        "centroid": {
+            "longitude": 105.45599655184886,
+            "latitude": 11.516580425966994
+        },
+        "DIS_CODE": 1413,
+        "distance_from_tuol_kouk": 61.05596723920803,
+        "actual_distance_from_tuol_kouk": 96.701,
+        "neighbors": [
+            "Ba Phnum",
+            "Kamchay Mear",
+            "Kanhchriech",
+            "Me Sang",
+            "Peam Ro",
+            "Pea Reang",
+            "Prey Veng",
+            "Pur Rieng"
+        ],
+        "distances_to_neighbors": {
+            "Ba Phnum": 35.621,
+            "Kamchay Mear": 37.202,
+            "Kanhchriech": 37.906,
+            "Me Sang": 29.527,
+            "Peam Ro": 35.543,
+            "Pea Reang": 34.951,
+            "Prey Veng": 20.603,
+            "Pur Rieng": 32.962
+        }
+    },
+    {
+        "district_name": "Bakan",
+        "centroid": {
+            "longitude": 103.73654660163636,
+            "latitude": 12.678779764351509
+        },
+        "DIS_CODE": 1501,
+        "distance_from_tuol_kouk": 176.14844985631424,
+        "actual_distance_from_tuol_kouk": 213.467,
+        "neighbors": [
+            "Moung Ruessei",
+            "Rukh Kiri",
+            "Phnum Kravanh",
+            "Pursat",
+            "Veal Veaeng"
+        ],
+        "distances_to_neighbors": {
+            "Moung Ruessei": 46.435,
+            "Rukh Kiri": 56.623,
+            "Phnum Kravanh": 77.697,
+            "Pursat": 39.321,
+            "Veal Veaeng": 147.584
+        }
+    },
+    {
+        "district_name": "Kandieng",
+        "centroid": {
+            "longitude": 104.00032932636225,
+            "latitude": 12.685791353221205
+        },
+        "DIS_CODE": 1502,
+        "distance_from_tuol_kouk": 157.40682957448217,
+        "actual_distance_from_tuol_kouk": 206.688,
+        "neighbors": [
+            "Krakor",
+            "Pursat"
+        ],
+        "distances_to_neighbors": {
+            "Krakor": 66.095,
+            "Pursat": 35.146
+        }
+    },
+    {
+        "district_name": "Krakor",
+        "centroid": {
+            "longitude": 104.1713011892021,
+            "latitude": 12.440175967342496
+        },
+        "DIS_CODE": 1503,
+        "distance_from_tuol_kouk": 124.59846604473543,
+        "actual_distance_from_tuol_kouk": 161.798,
+        "neighbors": [
+            "Baribour",
+            "Tuek Phos",
+            "Kandieng",
+            "Phnum Kravanh",
+            "Pursat"
+        ],
+        "distances_to_neighbors": {
+            "Baribour": 47.194,
+            "Tuek Phos": 71.563,
+            "Kandieng": 66.095,
+            "Phnum Kravanh": 85.48,
+            "Pursat": 47.193
+        }
+    },
+    {
+        "district_name": "Phnum Kravanh",
+        "centroid": {
+            "longitude": 103.82230369736989,
+            "latitude": 12.179215399893716
+        },
+        "DIS_CODE": 1504,
+        "distance_from_tuol_kouk": 135.23313343399144,
+        "actual_distance_from_tuol_kouk": 225.603,
+        "neighbors": [
+            "Tuek Phos",
+            "Thma Bang",
+            "Bakan",
+            "Krakor",
+            "Pursat",
+            "Veal Veaeng"
+        ],
+        "distances_to_neighbors": {
+            "Tuek Phos": 132.835,
+            "Thma Bang": 281.174,
+            "Bakan": 77.697,
+            "Krakor": 85.48,
+            "Pursat": 38.59,
+            "Veal Veaeng": 113.05
+        }
+    },
+    {
+        "district_name": "Pursat",
+        "centroid": {
+            "longitude": 103.91430391814123,
+            "latitude": 12.473460685133963
+        },
+        "DIS_CODE": 1505,
+        "distance_from_tuol_kouk": 146.50567396429813,
+        "actual_distance_from_tuol_kouk": 187.297,
+        "neighbors": [
+            "Bakan",
+            "Kandieng",
+            "Krakor",
+            "Phnum Kravanh"
+        ],
+        "distances_to_neighbors": {
+            "Bakan": 39.321,
+            "Kandieng": 35.146,
+            "Krakor": 47.193,
+            "Phnum Kravanh": 38.59
+        }
+    },
+    {
+        "district_name": "Veal Veaeng",
+        "centroid": {
+            "longitude": 103.13291750223277,
+            "latitude": 12.244204222679802
+        },
+        "DIS_CODE": 1506,
+        "distance_from_tuol_kouk": 206.3047656193,
+        "actual_distance_from_tuol_kouk": 308.172,
+        "neighbors": [
+            "Samlout",
+            "Koas Krala",
+            "Rukh Kiri",
+            "Mondol Seima",
+            "Thma Bang",
+            "Bakan",
+            "Phnum Kravanh"
+        ],
+        "distances_to_neighbors": {
+            "Samlout": 88.5,
+            "Koas Krala": 78.582,
+            "Rukh Kiri": 149.164,
+            "Mondol Seima": 99.715,
+            "Thma Bang": 174.484,
+            "Bakan": 147.584,
+            "Phnum Kravanh": 113.05
+        }
+    },
+    {
+        "district_name": "Andoung Meas",
+        "centroid": {
+            "longitude": 107.3114973759497,
+            "latitude": 13.935263628302655
+        },
+        "DIS_CODE": 1601,
+        "distance_from_tuol_kouk": 370.1763208648528,
+        "actual_distance_from_tuol_kouk": 548.608,
+        "neighbors": [
+            "Bar Kaev",
+            "Ou Chum",
+            "Ou Ya Dav",
+            "Ta Veaeng"
+        ],
+        "distances_to_neighbors": {
+            "Bar Kaev": 37.607,
+            "Ou Chum": 49.353,
+            "Ou Ya Dav": 77.657
+        }
+    },
+    {
+        "district_name": "Ban Lung",
+        "centroid": {
+            "longitude": 107.02935501062815,
+            "latitude": 13.683808993006613
+        },
+        "DIS_CODE": 1602,
+        "distance_from_tuol_kouk": 328.9288929872825,
+        "actual_distance_from_tuol_kouk": 491.839,
+        "neighbors": [
+            "Bar Kaev",
+            "Koun Mom",
+            "Lumphat",
+            "Ou Chum"
+        ],
+        "distances_to_neighbors": {
+            "Bar Kaev": 36.82,
+            "Koun Mom": 54.736,
+            "Lumphat": 62.015,
+            "Ou Chum": 27.608
+        }
+    },
+    {
+        "district_name": "Bar Kaev",
+        "centroid": {
+            "longitude": 107.19425896790123,
+            "latitude": 13.709142655607508
+        },
+        "DIS_CODE": 1603,
+        "distance_from_tuol_kouk": 343.68450786133246,
+        "actual_distance_from_tuol_kouk": 512.959,
+        "neighbors": [
+            "Andoung Meas",
+            "Ban Lung",
+            "Lumphat",
+            "Ou Chum",
+            "Ou Ya Dav"
+        ],
+        "distances_to_neighbors": {
+            "Andoung Meas": 37.607,
+            "Ban Lung": 36.82,
+            "Lumphat": 47.619,
+            "Ou Chum": 37.019,
+            "Ou Ya Dav": 42.008
+        }
+    },
+    {
+        "district_name": "Koun Mom",
+        "centroid": {
+            "longitude": 106.75082252447655,
+            "latitude": 13.519259457340546
+        },
+        "DIS_CODE": 1604,
+        "distance_from_tuol_kouk": 294.8755951770543,
+        "actual_distance_from_tuol_kouk": 448.744,
+        "neighbors": [
+            "Kaoh Nheaek",
+            "Ban Lung",
+            "Lumphat",
+            "Ou Chum",
+            "Veun Sai",
+            "Sesan"
+        ],
+        "distances_to_neighbors": {
+            "Kaoh Nheaek": 107.636,
+            "Ban Lung": 54.736,
+            "Lumphat": 80.312,
+            "Ou Chum": 64.66,
+            "Veun Sai": 92.533,
+            "Sesan": 50.796
+        }
+    },
+    {
+        "district_name": "Lumphat",
+        "centroid": {
+            "longitude": 107.08081417369381,
+            "latitude": 13.425996381360243
+        },
+        "DIS_CODE": 1605,
+        "distance_from_tuol_kouk": 313.6090357236106,
+        "actual_distance_from_tuol_kouk": 516.955,
+        "neighbors": [
+            "Kaoh Nheaek",
+            "Ban Lung",
+            "Bar Kaev",
+            "Koun Mom",
+            "Ou Ya Dav"
+        ],
+        "distances_to_neighbors": {
+            "Kaoh Nheaek": 68.113,
+            "Ban Lung": 62.015,
+            "Bar Kaev": 47.619,
+            "Koun Mom": 80.312,
+            "Ou Ya Dav": 73.986
+        }
+    },
+    {
+        "district_name": "Ou Chum",
+        "centroid": {
+            "longitude": 107.03430243933165,
+            "latitude": 13.842375005126659
+        },
+        "DIS_CODE": 1606,
+        "distance_from_tuol_kouk": 341.93223406490216,
+        "actual_distance_from_tuol_kouk": 501.283,
+        "neighbors": [
+            "Andoung Meas",
+            "Ban Lung",
+            "Bar Kaev",
+            "Koun Mom",
+            "Ta Veaeng",
+            "Veun Sai"
+        ],
+        "distances_to_neighbors": {
+            "Andoung Meas": 49.353,
+            "Ban Lung": 27.608,
+            "Bar Kaev": 37.019,
+            "Koun Mom": 64.66,
+            "Veun Sai": 46.641
+        }
+    },
+    {
+        "district_name": "Ou Ya Dav",
+        "centroid": {
+            "longitude": 107.44720014675605,
+            "latitude": 13.545320990850355
+        },
+        "DIS_CODE": 1607,
+        "distance_from_tuol_kouk": 352.6763391540133,
+        "actual_distance_from_tuol_kouk": 551.642,
+        "neighbors": [
+            "Kaoh Nheaek",
+            "Andoung Meas",
+            "Bar Kaev",
+            "Lumphat"
+        ],
+        "distances_to_neighbors": {
+            "Kaoh Nheaek": 127.105,
+            "Andoung Meas": 77.657,
+            "Bar Kaev": 42.008,
+            "Lumphat": 73.986
+        }
+    },
+    {
+        "district_name": "Ta Veaeng",
+        "centroid": {
+            "longitude": 107.23943547973657,
+            "latitude": 14.296784779889103
+        },
+        "DIS_CODE": 1608,
+        "distance_from_tuol_kouk": 394.23384093885767,
+        "actual_distance_from_tuol_kouk": null,
+        "neighbors": [
+            "Andoung Meas",
+            "Ou Chum",
+            "Veun Sai"
+        ],
+        "distances_to_neighbors": {}
+    },
+    {
+        "district_name": "Veun Sai",
+        "centroid": {
+            "longitude": 106.85467546773265,
+            "latitude": 14.051914778744353
+        },
+        "DIS_CODE": 1609,
+        "distance_from_tuol_kouk": 346.9876659571745,
+        "actual_distance_from_tuol_kouk": 529.184,
+        "neighbors": [
+            "Koun Mom",
+            "Ou Chum",
+            "Ta Veaeng",
+            "Sesan",
+            "Siem Pang"
+        ],
+        "distances_to_neighbors": {
+            "Koun Mom": 92.533,
+            "Ou Chum": 46.641,
+            "Sesan": 131.235,
+            "Siem Pang": 287.989
+        }
+    },
+    {
+        "district_name": "Angkor Chum",
+        "centroid": {
+            "longitude": 103.71014331565168,
+            "latitude": 13.712695034562923
+        },
+        "DIS_CODE": 1701,
+        "distance_from_tuol_kouk": 269.84240954318295,
+        "actual_distance_from_tuol_kouk": 371.195,
+        "neighbors": [
+            "Angkor Thum",
+            "Kralanh",
+            "Puok",
+            "Srei Snam",
+            "Varin"
+        ],
+        "distances_to_neighbors": {
+            "Angkor Thum": 31.171,
+            "Kralanh": 34.741,
+            "Puok": 43.789,
+            "Srei Snam": 42.414,
+            "Varin": 37.762
+        }
+    },
+    {
+        "district_name": "Angkor Thum",
+        "centroid": {
+            "longitude": 103.8540035451125,
+            "latitude": 13.581375582604585
+        },
+        "DIS_CODE": 1702,
+        "distance_from_tuol_kouk": 249.71167226686987,
+        "actual_distance_from_tuol_kouk": 347.226,
+        "neighbors": [
+            "Angkor Chum",
+            "Banteay Srei",
+            "Puok",
+            "Siem Reap",
+            "Varin"
+        ],
+        "distances_to_neighbors": {
+            "Angkor Chum": 31.171,
+            "Banteay Srei": 25.771,
+            "Puok": 43.362,
+            "Siem Reap": 30.881,
+            "Varin": 62.917
+        }
+    },
+    {
+        "district_name": "Banteay Srei",
+        "centroid": {
+            "longitude": 104.01373369776314,
+            "latitude": 13.575359034519582
+        },
+        "DIS_CODE": 1703,
+        "distance_from_tuol_kouk": 241.70270554215543,
+        "actual_distance_from_tuol_kouk": 335.501,
+        "neighbors": [
+            "Angkor Thum",
+            "Prasat Bakong",
+            "Siem Reap",
+            "Soutr Nikom",
+            "Svay Leu",
+            "Varin"
+        ],
+        "distances_to_neighbors": {
+            "Angkor Thum": 25.771,
+            "Prasat Bakong": 40.564,
+            "Siem Reap": 40.604,
+            "Soutr Nikom": 52.137,
+            "Svay Leu": 56.48,
+            "Varin": 47.052
+        }
+    },
+    {
+        "district_name": "Chi Kraeng",
+        "centroid": {
+            "longitude": 104.36755646082513,
+            "latitude": 13.210516175590902
+        },
+        "DIS_CODE": 1704,
+        "distance_from_tuol_kouk": 190.35606596336189,
+        "actual_distance_from_tuol_kouk": 274.54,
+        "neighbors": [
+            "Stoung",
+            "Kuleaen",
+            "Sangkum Thmei",
+            "Soutr Nikom",
+            "Svay Leu"
+        ],
+        "distances_to_neighbors": {
+            "Stoung": 59.81,
+            "Kuleaen": 126.172,
+            "Sangkum Thmei": 134.242,
+            "Soutr Nikom": 34.67,
+            "Svay Leu": 112.205
+        }
+    },
+    {
+        "district_name": "Kralanh",
+        "centroid": {
+            "longitude": 103.48426579482026,
+            "latitude": 13.576993631873885
+        },
+        "DIS_CODE": 1706,
+        "distance_from_tuol_kouk": 269.9605969339532,
+        "actual_distance_from_tuol_kouk": 368.264,
+        "neighbors": [
+            "Phnum Srok",
+            "Preah Netr Preah",
+            "Aek Phnum",
+            "Angkor Chum",
+            "Puok",
+            "Srei Snam"
+        ],
+        "distances_to_neighbors": {
+            "Phnum Srok": 51.65,
+            "Preah Netr Preah": 37.805,
+            "Aek Phnum": 155.249,
+            "Angkor Chum": 34.741,
+            "Puok": 31.839,
+            "Srei Snam": 44.476
+        }
+    },
+    {
+        "district_name": "Puok",
+        "centroid": {
+            "longitude": 103.64616580859752,
+            "latitude": 13.452325402466862
+        },
+        "DIS_CODE": 1707,
+        "distance_from_tuol_kouk": 248.7112126605747,
+        "actual_distance_from_tuol_kouk": 346.19,
+        "neighbors": [
+            "Aek Phnum",
+            "Angkor Chum",
+            "Angkor Thum",
+            "Kralanh",
+            "Siem Reap"
+        ],
+        "distances_to_neighbors": {
+            "Aek Phnum": 181.641,
+            "Angkor Chum": 43.789,
+            "Angkor Thum": 43.362,
+            "Kralanh": 31.839,
+            "Siem Reap": 29.005
+        }
+    },
+    {
+        "district_name": "Prasat Bakong",
+        "centroid": {
+            "longitude": 103.9876792710229,
+            "latitude": 13.30422600731972
+        },
+        "DIS_CODE": 1709,
+        "distance_from_tuol_kouk": 215.82522401545458,
+        "actual_distance_from_tuol_kouk": 308.51,
+        "neighbors": [
+            "Banteay Srei",
+            "Siem Reap",
+            "Soutr Nikom"
+        ],
+        "distances_to_neighbors": {
+            "Banteay Srei": 40.564,
+            "Siem Reap": 22.396,
+            "Soutr Nikom": 25.146
+        }
+    },
+    {
+        "district_name": "Siem Reap",
+        "centroid": {
+            "longitude": 103.84937805785707,
+            "latitude": 13.351516197691318
+        },
+        "DIS_CODE": 1710,
+        "distance_from_tuol_kouk": 227.6342148776798,
+        "actual_distance_from_tuol_kouk": 319.454,
+        "neighbors": [
+            "Angkor Thum",
+            "Banteay Srei",
+            "Puok",
+            "Prasat Bakong"
+        ],
+        "distances_to_neighbors": {
+            "Angkor Thum": 30.881,
+            "Banteay Srei": 40.604,
+            "Puok": 29.005,
+            "Prasat Bakong": 22.396
+        }
+    },
+    {
+        "district_name": "Soutr Nikom",
+        "centroid": {
+            "longitude": 104.12564473305991,
+            "latitude": 13.235067534614712
+        },
+        "DIS_CODE": 1711,
+        "distance_from_tuol_kouk": 202.38493500782184,
+        "actual_distance_from_tuol_kouk": 285.493,
+        "neighbors": [
+            "Banteay Srei",
+            "Chi Kraeng",
+            "Prasat Bakong",
+            "Svay Leu"
+        ],
+        "distances_to_neighbors": {
+            "Banteay Srei": 52.137,
+            "Chi Kraeng": 34.67,
+            "Prasat Bakong": 25.146,
+            "Svay Leu": 79.664
+        }
+    },
+    {
+        "district_name": "Srei Snam",
+        "centroid": {
+            "longitude": 103.56229196015107,
+            "latitude": 13.838050793044676
+        },
+        "DIS_CODE": 1712,
+        "distance_from_tuol_kouk": 289.7845260620494,
+        "actual_distance_from_tuol_kouk": 443.114,
+        "neighbors": [
+            "Phnum Srok",
+            "Angkor Chum",
+            "Kralanh",
+            "Varin",
+            "Chong Kal"
+        ],
+        "distances_to_neighbors": {
+            "Phnum Srok": 40.3,
+            "Angkor Chum": 42.414,
+            "Kralanh": 44.476,
+            "Varin": 66.595,
+            "Chong Kal": 22.94
+        }
+    },
+    {
+        "district_name": "Svay Leu",
+        "centroid": {
+            "longitude": 104.25977800712997,
+            "latitude": 13.689398059902745
+        },
+        "DIS_CODE": 1713,
+        "distance_from_tuol_kouk": 244.42510138385123,
+        "actual_distance_from_tuol_kouk": 365.085,
+        "neighbors": [
+            "Kuleaen",
+            "Banteay Srei",
+            "Chi Kraeng",
+            "Soutr Nikom",
+            "Varin",
+            "Anlong Veaeng",
+            "Trapeang Prasat"
+        ],
+        "distances_to_neighbors": {
+            "Kuleaen": 62.209,
+            "Banteay Srei": 56.48,
+            "Chi Kraeng": 112.205,
+            "Soutr Nikom": 79.664,
+            "Varin": 54.666,
+            "Anlong Veaeng": 110.32,
+            "Trapeang Prasat": 69.364
+        }
+    },
+    {
+        "district_name": "Varin",
+        "centroid": {
+            "longitude": 103.91549400454576,
+            "latitude": 13.847037639081947
+        },
+        "DIS_CODE": 1714,
+        "distance_from_tuol_kouk": 273.51157341601515,
+        "actual_distance_from_tuol_kouk": 372.92,
+        "neighbors": [
+            "Angkor Chum",
+            "Angkor Thum",
+            "Banteay Srei",
+            "Srei Snam",
+            "Svay Leu",
+            "Anlong Veaeng",
+            "Chong Kal"
+        ],
+        "distances_to_neighbors": {
+            "Angkor Chum": 37.762,
+            "Angkor Thum": 62.917,
+            "Banteay Srei": 47.052,
+            "Srei Snam": 66.595,
+            "Svay Leu": 54.666,
+            "Anlong Veaeng": 85.222,
+            "Chong Kal": 81.843
+        }
+    },
+    {
+        "district_name": "Preah Sihanouk",
+        "centroid": {
+            "longitude": 103.38996831453754,
+            "latitude": 10.663202554933296
+        },
+        "DIS_CODE": 1801,
+        "distance_from_tuol_kouk": 193.0266530791477,
+        "actual_distance_from_tuol_kouk": 224.377,
+        "neighbors": [
+            "Prey Nob",
+            "Stueng Hav"
+        ],
+        "distances_to_neighbors": {
+            "Prey Nob": 63.234,
+            "Stueng Hav": 63.351
+        }
+    },
+    {
+        "district_name": "Prey Nob",
+        "centroid": {
+            "longitude": 103.78463897614087,
+            "latitude": 10.688420274959466
+        },
+        "DIS_CODE": 1802,
+        "distance_from_tuol_kouk": 156.04312492809666,
+        "actual_distance_from_tuol_kouk": 193.18,
+        "neighbors": [
+            "Tuek Chhou",
+            "Preah Sihanouk",
+            "Kampong Seila"
+        ],
+        "distances_to_neighbors": {
+            "Tuek Chhou": 75.809,
+            "Preah Sihanouk": 63.234,
+            "Kampong Seila": 88.193
+        }
+    },
+    {
+        "district_name": "Stueng Hav",
+        "centroid": {
+            "longitude": 103.68065833568612,
+            "latitude": 10.769869798725015
+        },
+        "DIS_CODE": 1803,
+        "distance_from_tuol_kouk": 159.87826901870883,
+        "actual_distance_from_tuol_kouk": 179.775,
+        "neighbors": [
+            "Preah Sihanouk",
+            "Kampong Seila"
+        ],
+        "distances_to_neighbors": {
+            "Preah Sihanouk": 63.351,
+            "Kampong Seila": 74.788
+        }
+    },
+    {
+        "district_name": "Kampong Seila",
+        "centroid": {
+            "longitude": 103.94601816586156,
+            "latitude": 11.143455637343406
+        },
+        "DIS_CODE": 1804,
+        "distance_from_tuol_kouk": 114.26785023334347,
+        "actual_distance_from_tuol_kouk": 124.225,
+        "neighbors": [
+            "Phnum Sruoch",
+            "Chhuk",
+            "Tuek Chhou",
+            "Srae Ambel",
+            "Prey Nob",
+            "Stueng Hav"
+        ],
+        "distances_to_neighbors": {
+            "Phnum Sruoch": 42.442,
+            "Chhuk": 71.577,
+            "Tuek Chhou": 153.265,
+            "Srae Ambel": 68.404,
+            "Prey Nob": 88.193,
+            "Stueng Hav": 74.788
+        }
+    },
+    {
+        "district_name": "Sesan",
+        "centroid": {
+            "longitude": 106.35698537251464,
+            "latitude": 13.60707005977419
+        },
+        "DIS_CODE": 1901,
+        "distance_from_tuol_kouk": 275.3736741812944,
+        "actual_distance_from_tuol_kouk": 416.349,
+        "neighbors": [
+            "Sambour",
+            "Kaoh Nheaek",
+            "Koun Mom",
+            "Veun Sai",
+            "Siem Bouk",
+            "Siem Pang",
+            "Stueng Traeng"
+        ],
+        "distances_to_neighbors": {
+            "Sambour": 124.234,
+            "Kaoh Nheaek": 146.79,
+            "Koun Mom": 50.796,
+            "Veun Sai": 131.235,
+            "Siem Bouk": 109.123,
+            "Siem Pang": 175.154,
+            "Stueng Traeng": 95.901
+        }
+    },
+    {
+        "district_name": "Siem Bouk",
+        "centroid": {
+            "longitude": 105.81427730974151,
+            "latitude": 13.30719742705299
+        },
+        "DIS_CODE": 1902,
+        "distance_from_tuol_kouk": 216.31460114430834,
+        "actual_distance_from_tuol_kouk": 414.116,
+        "neighbors": [
+            "Sandan",
+            "Sambour",
+            "Sesan",
+            "Stueng Traeng",
+            "Thala Barivat"
+        ],
+        "distances_to_neighbors": {
+            "Sandan": 319.16,
+            "Sambour": 122.014,
+            "Sesan": 109.123,
+            "Stueng Traeng": 66.352,
+            "Thala Barivat": 57.323
+        }
+    },
+    {
+        "district_name": "Siem Pang",
+        "centroid": {
+            "longitude": 106.4216963707123,
+            "latitude": 14.176137944100205
+        },
+        "DIS_CODE": 1903,
+        "distance_from_tuol_kouk": 332.22257562148974,
+        "actual_distance_from_tuol_kouk": 480.147,
+        "neighbors": [
+            "Veun Sai",
+            "Sesan",
+            "Stueng Traeng"
+        ],
+        "distances_to_neighbors": {
+            "Veun Sai": 287.989,
+            "Sesan": 175.154,
+            "Stueng Traeng": 95.813
+        }
+    },
+    {
+        "district_name": "Stueng Traeng",
+        "centroid": {
+            "longitude": 106.06656445789527,
+            "latitude": 13.682954243420689
+        },
+        "DIS_CODE": 1904,
+        "distance_from_tuol_kouk": 265.8503183585497,
+        "actual_distance_from_tuol_kouk": 400.894,
+        "neighbors": [
+            "Sesan",
+            "Siem Bouk",
+            "Siem Pang",
+            "Thala Barivat"
+        ],
+        "distances_to_neighbors": {
+            "Sesan": 95.901,
+            "Siem Bouk": 66.352,
+            "Siem Pang": 95.813,
+            "Thala Barivat": 61.287
+        }
+    },
+    {
+        "district_name": "Thala Barivat",
+        "centroid": {
+            "longitude": 105.78713479570612,
+            "latitude": 13.67476920196647
+        },
+        "DIS_CODE": 1905,
+        "distance_from_tuol_kouk": 251.94242221845226,
+        "actual_distance_from_tuol_kouk": 409.105,
+        "neighbors": [
+            "Sandan",
+            "Chey Saen",
+            "Chhaeb",
+            "Rovieng",
+            "Siem Bouk",
+            "Stueng Traeng"
+        ],
+        "distances_to_neighbors": {
+            "Sandan": 279.742,
+            "Chey Saen": 107.013,
+            "Chhaeb": 80.334,
+            "Rovieng": 136.983,
+            "Siem Bouk": 57.323,
+            "Stueng Traeng": 61.287
+        }
+    },
+    {
+        "district_name": "Chantrea",
+        "centroid": {
+            "longitude": 106.10316588641322,
+            "latitude": 10.906262665080261
+        },
+        "DIS_CODE": 2001,
+        "distance_from_tuol_kouk": 150.65542619754157,
+        "actual_distance_from_tuol_kouk": 172.878,
+        "neighbors": [
+            "Kampong Rou",
+            "Bavet"
+        ],
+        "distances_to_neighbors": {
+            "Kampong Rou": 23.681,
+            "Bavet": 23.905
+        }
+    },
+    {
+        "district_name": "Kampong Rou",
+        "centroid": {
+            "longitude": 105.94209356847782,
+            "latitude": 10.940071568377123
+        },
+        "DIS_CODE": 2002,
+        "distance_from_tuol_kouk": 133.5790489448726,
+        "actual_distance_from_tuol_kouk": 152.078,
+        "neighbors": [
+            "Chantrea",
+            "Svay Chrum",
+            "Svay Rieng",
+            "Svay Teab",
+            "Bavet"
+        ],
+        "distances_to_neighbors": {
+            "Chantrea": 23.681,
+            "Svay Chrum": 38.9,
+            "Svay Rieng": 24.78,
+            "Svay Teab": 35.71,
+            "Bavet": 28.652
+        }
+    },
+    {
+        "district_name": "Rumduol",
+        "centroid": {
+            "longitude": 105.82668209891119,
+            "latitude": 11.224945997919713
+        },
+        "DIS_CODE": 2003,
+        "distance_from_tuol_kouk": 108.24037189043031,
+        "actual_distance_from_tuol_kouk": 144.1,
+        "neighbors": [
+            "Romeas Haek",
+            "Svay Chrum",
+            "Svay Rieng",
+            "Svay Teab"
+        ],
+        "distances_to_neighbors": {
+            "Romeas Haek": 26.446,
+            "Svay Chrum": 30.922,
+            "Svay Rieng": 16.121,
+            "Svay Teab": 26.093
+        }
+    },
+    {
+        "district_name": "Romeas Haek",
+        "centroid": {
+            "longitude": 105.77013671892907,
+            "latitude": 11.42607827692661
+        },
+        "DIS_CODE": 2004,
+        "distance_from_tuol_kouk": 96.38330854233787,
+        "actual_distance_from_tuol_kouk": 140.001,
+        "neighbors": [
+            "Kamchay Mear",
+            "Me Sang",
+            "Rumduol",
+            "Svay Chrum"
+        ],
+        "distances_to_neighbors": {
+            "Kamchay Mear": 29.494,
+            "Me Sang": 32.379,
+            "Rumduol": 26.446,
+            "Svay Chrum": 56.986
+        }
+    },
+    {
+        "district_name": "Svay Chrum",
+        "centroid": {
+            "longitude": 105.69453663887052,
+            "latitude": 11.111553161429168
+        },
+        "DIS_CODE": 2005,
+        "distance_from_tuol_kouk": 100.61913329080802,
+        "actual_distance_from_tuol_kouk": 119.049,
+        "neighbors": [
+            "Kampong Trabaek",
+            "Me Sang",
+            "Kampong Rou",
+            "Rumduol",
+            "Romeas Haek",
+            "Svay Rieng"
+        ],
+        "distances_to_neighbors": {
+            "Kampong Trabaek": 29.021,
+            "Me Sang": 45.959,
+            "Kampong Rou": 38.9,
+            "Rumduol": 30.922,
+            "Romeas Haek": 56.986,
+            "Svay Rieng": 15.195
+        }
+    },
+    {
+        "district_name": "Svay Rieng",
+        "centroid": {
+            "longitude": 105.8100077453673,
+            "latitude": 11.09557665594272
+        },
+        "DIS_CODE": 2006,
+        "distance_from_tuol_kouk": 112.49709989511243,
+        "actual_distance_from_tuol_kouk": 128.397,
+        "neighbors": [
+            "Kampong Rou",
+            "Rumduol",
+            "Svay Chrum",
+            "Svay Teab"
+        ],
+        "distances_to_neighbors": {
+            "Kampong Rou": 24.78,
+            "Rumduol": 16.121,
+            "Svay Chrum": 15.195,
+            "Svay Teab": 25.981
+        }
+    },
+    {
+        "district_name": "Svay Teab",
+        "centroid": {
+            "longitude": 105.94177456801187,
+            "latitude": 11.108344822597864
+        },
+        "DIS_CODE": 2007,
+        "distance_from_tuol_kouk": 124.80498630075942,
+        "actual_distance_from_tuol_kouk": 153.96,
+        "neighbors": [
+            "Kampong Rou",
+            "Rumduol",
+            "Svay Rieng",
+            "Bavet"
+        ],
+        "distances_to_neighbors": {
+            "Kampong Rou": 35.71,
+            "Rumduol": 26.093,
+            "Svay Rieng": 25.981,
+            "Bavet": 26.496
+        }
+    },
+    {
+        "district_name": "Bavet",
+        "centroid": {
+            "longitude": 106.09759518054064,
+            "latitude": 11.042355737570576
+        },
+        "DIS_CODE": 2008,
+        "distance_from_tuol_kouk": 143.32565306528397,
+        "actual_distance_from_tuol_kouk": 160.644,
+        "neighbors": [
+            "Chantrea",
+            "Kampong Rou",
+            "Svay Teab"
+        ],
+        "distances_to_neighbors": {
+            "Chantrea": 23.905,
+            "Kampong Rou": 28.652,
+            "Svay Teab": 26.496
+        }
+    },
+    {
+        "district_name": "Angkor Borei",
+        "centroid": {
+            "longitude": 104.95001884472693,
+            "latitude": 10.993370451194782
+        },
+        "DIS_CODE": 2101,
+        "distance_from_tuol_kouk": 64.1378778251738,
+        "actual_distance_from_tuol_kouk": 80.489,
+        "neighbors": [
+            "Kaoh Thum",
+            "Borei Cholsar",
+            "Prey Kabbas",
+            "Samraong",
+            "Doun Kaev",
+            "Treang"
+        ],
+        "distances_to_neighbors": {
+            "Kaoh Thum": 46.913,
+            "Borei Cholsar": 106.559,
+            "Prey Kabbas": 19.648,
+            "Samraong": 44.76,
+            "Doun Kaev": 64.976,
+            "Treang": 76.373
+        }
+    },
+    {
+        "district_name": "Bati",
+        "centroid": {
+            "longitude": 104.81839974785272,
+            "latitude": 11.275829301484077
+        },
+        "DIS_CODE": 2102,
+        "distance_from_tuol_kouk": 33.8151330579008,
+        "actual_distance_from_tuol_kouk": 37.586,
+        "neighbors": [
+            "Kong Pisei",
+            "Kandal Stueng",
+            "S'ang",
+            "Prey Kabbas",
+            "Samraong"
+        ],
+        "distances_to_neighbors": {
+            "Kong Pisei": 26.655,
+            "Kandal Stueng": 20.809,
+            "S'ang": 46.554,
+            "Prey Kabbas": 29.176,
+            "Samraong": 19.921
+        }
+    },
+    {
+        "district_name": "Borei Cholsar",
+        "centroid": {
+            "longitude": 104.98889411587773,
+            "latitude": 10.813046303805612
+        },
+        "DIS_CODE": 2103,
+        "distance_from_tuol_kouk": 84.41477997912496,
+        "actual_distance_from_tuol_kouk": 116.188,
+        "neighbors": [
+            "Angkor Borei",
+            "Kaoh Andaet",
+            "Treang"
+        ],
+        "distances_to_neighbors": {
+            "Angkor Borei": 106.559,
+            "Kaoh Andaet": 16.712,
+            "Treang": 28.484
+        }
+    },
+    {
+        "district_name": "Kiri Vong",
+        "centroid": {
+            "longitude": 104.79645627105482,
+            "latitude": 10.639806934221328
+        },
+        "DIS_CODE": 2104,
+        "distance_from_tuol_kouk": 103.61179119374658,
+        "actual_distance_from_tuol_kouk": 123.694,
+        "neighbors": [
+            "Angkor Chey",
+            "Banteay Meas",
+            "Kaoh Andaet",
+            "Treang"
+        ],
+        "distances_to_neighbors": {
+            "Angkor Chey": 39.512,
+            "Banteay Meas": 29.448,
+            "Kaoh Andaet": 35.844,
+            "Treang": 41.344
+        }
+    },
+    {
+        "district_name": "Kaoh Andaet",
+        "centroid": {
+            "longitude": 104.92569238445019,
+            "latitude": 10.75030528915577
+        },
+        "DIS_CODE": 2105,
+        "distance_from_tuol_kouk": 90.8286941652983,
+        "actual_distance_from_tuol_kouk": 111.572,
+        "neighbors": [
+            "Borei Cholsar",
+            "Kiri Vong",
+            "Treang"
+        ],
+        "distances_to_neighbors": {
+            "Borei Cholsar": 16.712,
+            "Kiri Vong": 35.844,
+            "Treang": 29.222
+        }
+    },
+    {
+        "district_name": "Prey Kabbas",
+        "centroid": {
+            "longitude": 104.92879817416711,
+            "latitude": 11.146563219728908
+        },
+        "DIS_CODE": 2106,
+        "distance_from_tuol_kouk": 47.062607014942614,
+        "actual_distance_from_tuol_kouk": 63.558,
+        "neighbors": [
+            "Kaoh Thum",
+            "S'ang",
+            "Angkor Borei",
+            "Bati",
+            "Samraong"
+        ],
+        "distances_to_neighbors": {
+            "Kaoh Thum": 29.983,
+            "S'ang": 34.622,
+            "Angkor Borei": 19.648,
+            "Bati": 29.176,
+            "Samraong": 24.35
+        }
+    },
+    {
+        "district_name": "Samraong",
+        "centroid": {
+            "longitude": 104.77068316107686,
+            "latitude": 11.130107060789744
+        },
+        "DIS_CODE": 2107,
+        "distance_from_tuol_kouk": 50.74184260990424,
+        "actual_distance_from_tuol_kouk": 54.346,
+        "neighbors": [
+            "Basedth",
+            "Kong Pisei",
+            "Angkor Borei",
+            "Bati",
+            "Prey Kabbas",
+            "Doun Kaev",
+            "Tram Kak"
+        ],
+        "distances_to_neighbors": {
+            "Basedth": 35.203,
+            "Kong Pisei": 39.64,
+            "Angkor Borei": 44.76,
+            "Bati": 19.921,
+            "Prey Kabbas": 24.35,
+            "Doun Kaev": 21.429,
+            "Tram Kak": 34.958
+        }
+    },
+    {
+        "district_name": "Doun Kaev",
+        "centroid": {
+            "longitude": 104.79586352705648,
+            "latitude": 10.995808149206743
+        },
+        "DIS_CODE": 2108,
+        "distance_from_tuol_kouk": 64.61465667929541,
+        "actual_distance_from_tuol_kouk": 74.588,
+        "neighbors": [
+            "Angkor Borei",
+            "Samraong",
+            "Tram Kak",
+            "Treang"
+        ],
+        "distances_to_neighbors": {
+            "Angkor Borei": 64.976,
+            "Samraong": 21.429,
+            "Tram Kak": 23.357,
+            "Treang": 16.096
+        }
+    },
+    {
+        "district_name": "Tram Kak",
+        "centroid": {
+            "longitude": 104.60438383309707,
+            "latitude": 11.012892819097559
+        },
+        "DIS_CODE": 2109,
+        "distance_from_tuol_kouk": 69.61300511420866,
+        "actual_distance_from_tuol_kouk": 81.11,
+        "neighbors": [
+            "Basedth",
+            "Angkor Chey",
+            "Chhuk",
+            "Chum Kiri",
+            "Samraong",
+            "Doun Kaev",
+            "Treang"
+        ],
+        "distances_to_neighbors": {
+            "Basedth": 40.001,
+            "Angkor Chey": 34.404,
+            "Chhuk": 52.515,
+            "Chum Kiri": 30.392,
+            "Samraong": 34.958,
+            "Doun Kaev": 23.357,
+            "Treang": 34.788
+        }
+    },
+    {
+        "district_name": "Treang",
+        "centroid": {
+            "longitude": 104.80123577521002,
+            "latitude": 10.884262430898456
+        },
+        "DIS_CODE": 2110,
+        "distance_from_tuol_kouk": 76.71097435855172,
+        "actual_distance_from_tuol_kouk": 86.003,
+        "neighbors": [
+            "Angkor Chey",
+            "Angkor Borei",
+            "Borei Cholsar",
+            "Kiri Vong",
+            "Kaoh Andaet",
+            "Doun Kaev",
+            "Tram Kak"
+        ],
+        "distances_to_neighbors": {
+            "Angkor Chey": 38.049,
+            "Angkor Borei": 76.373,
+            "Borei Cholsar": 28.484,
+            "Kiri Vong": 41.344,
+            "Kaoh Andaet": 29.222,
+            "Doun Kaev": 16.096,
+            "Tram Kak": 34.788
+        }
+    },
+    {
+        "district_name": "Anlong Veaeng",
+        "centroid": {
+            "longitude": 103.99660612721321,
+            "latitude": 14.158401901836754
+        },
+        "DIS_CODE": 2201,
+        "distance_from_tuol_kouk": 302.53450862670593,
+        "actual_distance_from_tuol_kouk": 428.574,
+        "neighbors": [
+            "Svay Leu",
+            "Varin",
+            "Chong Kal",
+            "Samraong",
+            "Trapeang Prasat"
+        ],
+        "distances_to_neighbors": {
+            "Svay Leu": 110.32,
+            "Varin": 85.222,
+            "Chong Kal": 118.081,
+            "Samraong": 90.668,
+            "Trapeang Prasat": 56.87
+        }
+    },
+    {
+        "district_name": "Banteay Ampil",
+        "centroid": {
+            "longitude": 103.26800545927715,
+            "latitude": 14.170682857510556
+        },
+        "DIS_CODE": 2202,
+        "distance_from_tuol_kouk": 337.70962640178504,
+        "actual_distance_from_tuol_kouk": 448.098,
+        "neighbors": [
+            "Phnum Srok",
+            "Thma Puok",
+            "Chong Kal",
+            "Samraong"
+        ],
+        "distances_to_neighbors": {
+            "Phnum Srok": 90.367,
+            "Thma Puok": 52.875,
+            "Chong Kal": 61.397,
+            "Samraong": 53.008
+        }
+    },
+    {
+        "district_name": "Chong Kal",
+        "centroid": {
+            "longitude": 103.60812451723679,
+            "latitude": 14.023689932518266
+        },
+        "DIS_CODE": 2203,
+        "distance_from_tuol_kouk": 305.3914757971408,
+        "actual_distance_from_tuol_kouk": 458.362,
+        "neighbors": [
+            "Phnum Srok",
+            "Srei Snam",
+            "Varin",
+            "Anlong Veaeng",
+            "Banteay Ampil",
+            "Samraong"
+        ],
+        "distances_to_neighbors": {
+            "Phnum Srok": 42.478,
+            "Srei Snam": 22.94,
+            "Varin": 81.843,
+            "Anlong Veaeng": 118.081,
+            "Banteay Ampil": 61.397,
+            "Samraong": 47.278
+        }
+    },
+    {
+        "district_name": "Samraong",
+        "centroid": {
+            "longitude": 103.61856240592807,
+            "latitude": 14.253153937768948
+        },
+        "DIS_CODE": 2204,
+        "distance_from_tuol_kouk": 327.64533772582257,
+        "actual_distance_from_tuol_kouk": 493.485,
+        "neighbors": [
+            "Anlong Veaeng",
+            "Banteay Ampil",
+            "Chong Kal"
+        ],
+        "distances_to_neighbors": {
+            "Anlong Veaeng": 90.668,
+            "Banteay Ampil": 53.008,
+            "Chong Kal": 47.278
+        }
+    },
+    {
+        "district_name": "Trapeang Prasat",
+        "centroid": {
+            "longitude": 104.30729235346539,
+            "latitude": 14.168730834562759
+        },
+        "DIS_CODE": 2205,
+        "distance_from_tuol_kouk": 294.4733948364997,
+        "actual_distance_from_tuol_kouk": 441.224,
+        "neighbors": [
+            "Choam Ksant",
+            "Kuleaen",
+            "Svay Leu",
+            "Anlong Veaeng"
+        ],
+        "distances_to_neighbors": {
+            "Choam Ksant": 76.471,
+            "Kuleaen": 140.689,
+            "Svay Leu": 69.364,
+            "Anlong Veaeng": 56.87
+        }
+    },
+    {
+        "district_name": "Damnak Chang'aeur",
+        "centroid": {
+            "longitude": 104.38010588568316,
+            "latitude": 10.511815096468501
+        },
+        "DIS_CODE": 2301,
+        "distance_from_tuol_kouk": 130.1604990579216,
+        "actual_distance_from_tuol_kouk": 152.64,
+        "neighbors": [
+            "Kaeb"
+        ],
+        "distances_to_neighbors": {
+            "Kaeb": 12.385
+        }
+    },
+    {
+        "district_name": "Kaeb",
+        "centroid": {
+            "longitude": 104.3112325128219,
+            "latitude": 10.53056567368114
+        },
+        "DIS_CODE": 2302,
+        "distance_from_tuol_kouk": 131.79480738086932,
+        "actual_distance_from_tuol_kouk": 163.781,
+        "neighbors": [
+            "Tuek Chhou",
+            "Damnak Chang'aeur"
+        ],
+        "distances_to_neighbors": {
+            "Tuek Chhou": 38.136,
+            "Damnak Chang'aeur": 12.385
+        }
+    },
+    {
+        "district_name": "Pailin",
+        "centroid": {
+            "longitude": 102.62521822752205,
+            "latitude": 12.78965273852506
+        },
+        "DIS_CODE": 2401,
+        "distance_from_tuol_kouk": 281.78943949805483,
+        "actual_distance_from_tuol_kouk": 374.219,
+        "neighbors": [
+            "Rotonak Mondol",
+            "Samlout",
+            "Sala Krau"
+        ],
+        "distances_to_neighbors": {
+            "Rotonak Mondol": 42.753,
+            "Samlout": 73.88,
+            "Sala Krau": 33.759
+        }
+    },
+    {
+        "district_name": "Sala Krau",
+        "centroid": {
+            "longitude": 102.63945993736432,
+            "latitude": 12.982402316293214
+        },
+        "DIS_CODE": 2402,
+        "distance_from_tuol_kouk": 291.2045433139581,
+        "actual_distance_from_tuol_kouk": 389.895,
+        "neighbors": [
+            "Rotonak Mondol",
+            "Kamrieng",
+            "Pailin"
+        ],
+        "distances_to_neighbors": {
+            "Rotonak Mondol": 58.48,
+            "Kamrieng": 38.278,
+            "Pailin": 33.759
+        }
+    },
+    {
+        "district_name": "Dambae",
+        "centroid": {
+            "longitude": 105.89979162513448,
+            "latitude": 12.03800776332391
+        },
+        "DIS_CODE": 2501,
+        "distance_from_tuol_kouk": 120.68267027552947,
+        "actual_distance_from_tuol_kouk": 180.38,
+        "neighbors": [
+            "Chhloung",
+            "Krouch Chhmar",
+            "Memot",
+            "Ponhea Kraek",
+            "Tboung Khmum"
+        ],
+        "distances_to_neighbors": {
+            "Chhloung": 53.022,
+            "Krouch Chhmar": 47.284,
+            "Memot": 68.841,
+            "Ponhea Kraek": 42.115,
+            "Tboung Khmum": 52.293
+        }
+    },
+    {
+        "district_name": "Krouch Chhmar",
+        "centroid": {
+            "longitude": 105.67547645306809,
+            "latitude": 12.196659240575098
+        },
+        "DIS_CODE": 2502,
+        "distance_from_tuol_kouk": 109.30080520465184,
+        "actual_distance_from_tuol_kouk": 206.102,
+        "neighbors": [
+            "Kampong Siem",
+            "Stueng Trang",
+            "Chhloung",
+            "Prek Prasab",
+            "Dambae",
+            "Tboung Khmum"
+        ],
+        "distances_to_neighbors": {
+            "Kampong Siem": 74.197,
+            "Stueng Trang": 65.956,
+            "Chhloung": 78.902,
+            "Prek Prasab": 96.161,
+            "Dambae": 47.284,
+            "Tboung Khmum": 39.426
+        }
+    },
+    {
+        "district_name": "Memot",
+        "centroid": {
+            "longitude": 106.2028738372003,
+            "latitude": 11.882496204833007
+        },
+        "DIS_CODE": 2503,
+        "distance_from_tuol_kouk": 146.2535323846908,
+        "actual_distance_from_tuol_kouk": 198.745,
+        "neighbors": [
+            "Chhloung",
+            "Snuol",
+            "Dambae",
+            "Ponhea Kraek"
+        ],
+        "distances_to_neighbors": {
+            "Chhloung": 96.299,
+            "Snuol": 68.153,
+            "Dambae": 68.841,
+            "Ponhea Kraek": 49.929
+        }
+    },
+    {
+        "district_name": "Ou Reang Ov",
+        "centroid": {
+            "longitude": 105.53852477350446,
+            "latitude": 11.81366230823778
+        },
+        "DIS_CODE": 2504,
+        "distance_from_tuol_kouk": 74.71263340363845,
+        "actual_distance_from_tuol_kouk": 115.291,
+        "neighbors": [
+            "Kaoh Soutin",
+            "Kanhchriech",
+            "Sithor Kandal",
+            "Ponhea Kraek",
+            "Tboung Khmum"
+        ],
+        "distances_to_neighbors": {
+            "Kaoh Soutin": 30.561,
+            "Kanhchriech": 20.502,
+            "Sithor Kandal": 31.199,
+            "Ponhea Kraek": 55.564,
+            "Tboung Khmum": 30.471
+        }
+    },
+    {
+        "district_name": "Ponhea Kraek",
+        "centroid": {
+            "longitude": 105.86084614627312,
+            "latitude": 11.760502902077688
+        },
+        "DIS_CODE": 2505,
+        "distance_from_tuol_kouk": 106.94931019787057,
+        "actual_distance_from_tuol_kouk": 148.816,
+        "neighbors": [
+            "Kamchay Mear",
+            "Kanhchriech",
+            "Dambae",
+            "Memot",
+            "Ou Reang Ov",
+            "Tboung Khmum"
+        ],
+        "distances_to_neighbors": {
+            "Kamchay Mear": 38.29,
+            "Kanhchriech": 47.141,
+            "Dambae": 42.115,
+            "Memot": 49.929,
+            "Ou Reang Ov": 55.564,
+            "Tboung Khmum": 40.298
+        }
+    },
+    {
+        "district_name": "Suong",
+        "centroid": {
+            "longitude": 105.66927277625364,
+            "latitude": 11.933975723398044
+        },
+        "DIS_CODE": 2506,
+        "distance_from_tuol_kouk": 93.0674936331233,
+        "actual_distance_from_tuol_kouk": 139.825,
+        "neighbors": [
+            "Tboung Khmum"
+        ],
+        "distances_to_neighbors": {
+            "Tboung Khmum": 7.368
+        }
+    },
+    {
+        "district_name": "Tboung Khmum",
+        "centroid": {
+            "longitude": 105.65603191052254,
+            "latitude": 11.97188633056409
+        },
+        "DIS_CODE": 2507,
+        "distance_from_tuol_kouk": 93.67345493047044,
+        "actual_distance_from_tuol_kouk": 142.729,
+        "neighbors": [
+            "Kampong Cham",
+            "Kampong Siem",
+            "Kaoh Soutin",
+            "Dambae",
+            "Krouch Chhmar",
+            "Ou Reang Ov",
+            "Ponhea Kraek",
+            "Suong"
+        ],
+        "distances_to_neighbors": {
+            "Kampong Cham": 34.625,
+            "Kampong Siem": 42.426,
+            "Kaoh Soutin": 43.267,
+            "Dambae": 52.293,
+            "Krouch Chhmar": 39.426,
+            "Ou Reang Ov": 30.471,
+            "Ponhea Kraek": 40.298,
+            "Suong": 7.368
+        }
+    }
+]

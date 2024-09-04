@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>District Route Finder</title>
+</head>
+<body>
+    <h1>Find Route Between Districts</h1>
+    <form method="POST">
+        <label for="start_district">Choose the starting district:</label>
+        <select id="start_district" name="start_district" required>
+            {% for district in districts %}
+                <option value="{{ district.district_name }}">{{ district.district_name }}</option>
+            {% endfor %}
+        </select>
+        <br><br>
+        
+        <label for="algorithm">Choose the search algorithm:</label>
+        <select id="algorithm" name="algorithm" required>
+            <option value="bfs">BFS</option>
+            <option value="gbfs">GBFS</option>
+            <option value="astar">A*</option>
+            <option value="dfs">DFS</option>
+        </select>
+        <br><br>
+        
+        <button type="submit">Search</button>
+    </form>
+
+    {% if path %}
+        <h2>Search Results</h2>
+        <p>Path: {{ path | join(' -> ') }}</p>
+        <p>Straight Line Distance: {{ straight_line_distance }} km</p>
+        <p>Total Distance: {{ total_distance }} km</p>
+
+        <h3>Map:</h3>
+        <div>{{ map_html|safe }}</div>
+    {% endif %}
+</body>
+</html>
